@@ -439,8 +439,6 @@ https://outbound-production.explore.org/stream-production-110/.m3u8
 https://outbound-production.explore.org/stream-production-276/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Africam 317
 https://outbound-production.explore.org/stream-production-317/.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
-https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Albarquel
 https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Almograve - New
@@ -457,14 +455,10 @@ https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Arrifana
 https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
-#EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",AU Salzburg
-http://85.199.1.39:80/mjpg/video.mjpg
 #EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",Austria - Spitzerberg Airfield
 https://spitzerberg.at/webcam/stream.m3u8
 #EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",Austria 1
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Bafureira | Estática
-https://video-auth1.iol.pt/beachcam/bcbafureirafixa/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Baía de Cascais
 https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Brazil 2
@@ -501,8 +495,6 @@ https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-#EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",CH Aarau Aargau
-http://89.186.193.101:80/mjpg/video.mjpg
 #EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",CH Lausanne Vaud
 http://145.232.235.226:80/mjpg/video.mjpg
 #EXTINF:-1 group-title="VIETNAM_WebCam",cổng sau Bệnh viện C Đà Nẵng
@@ -527,8 +519,6 @@ https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Tarquínio
 https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Tarquínio | Estática
-https://video-auth1.iol.pt/beachcam/bctarquinho2/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Costa Nova
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Horní Bečva - Rališka
@@ -577,8 +567,6 @@ https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcsilvade/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Espinho | Silvade | Estática |
 https://video-auth1.iol.pt/beachcam/bcsilvadefixa/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Esposende
-https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esposende - Foz Do Rio Cávado
 https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Faro
@@ -595,8 +583,6 @@ https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Figueira da Foz
 https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz - Buarcos
-https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Buarcos | Estática
 https://video-auth1.iol.pt/beachcam/bcbuarcos/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Figueira da Foz | Cabedelo
@@ -665,8 +651,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/401.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/402.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-403
 http://ibb-media2.ibb.gov.tr:1935/live/403.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-406
-http://ibb-media2.ibb.gov.tr:1935/live/406.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-413
 http://ibb-media2.ibb.gov.tr:1935/live/413.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-415
@@ -707,8 +691,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/481.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/482.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-487
 http://ibb-media2.ibb.gov.tr:1935/live/487.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-527
-http://ibb-media2.ibb.gov.tr:1935/live/527.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-531
 http://ibb-media2.ibb.gov.tr:1935/live/531.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-538
@@ -717,8 +699,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/538.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/542.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-549
 http://ibb-media2.ibb.gov.tr:1935/live/549.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-554
-http://ibb-media2.ibb.gov.tr:1935/live/554.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-561
 http://ibb-media2.ibb.gov.tr:1935/live/561.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-562
@@ -775,8 +755,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/652.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/661.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-663
 http://ibb-media2.ibb.gov.tr:1935/live/663.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-665
-http://ibb-media2.ibb.gov.tr:1935/live/665.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-668
 http://ibb-media2.ibb.gov.tr:1935/live/668.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-670
@@ -811,10 +789,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/794.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/820.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-826
 http://ibb-media2.ibb.gov.tr:1935/live/826.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-832
-http://ibb-media2.ibb.gov.tr:1935/live/832.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-833
-http://ibb-media2.ibb.gov.tr:1935/live/833.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-834
 http://ibb-media2.ibb.gov.tr:1935/live/834.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-835
@@ -859,8 +833,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/896.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/898.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-912
 http://ibb-media2.ibb.gov.tr:1935/live/912.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-913
-http://ibb-media2.ibb.gov.tr:1935/live/913.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-929
 http://ibb-media2.ibb.gov.tr:1935/live/929.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-930
@@ -925,16 +897,12 @@ https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Monte Clérigo
 https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Muğla-Marmaris-Yat Limanı
-http://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/HasBahCa.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Murtinheira
 https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Forte S. Miguel Arcanjo
 https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Forte S. Miguel Arcanjo - Baía
 https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Porto de Abrigo
-https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Nazaré - Praia da Vila
 https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Nazaré - Praia do Norte
@@ -1057,10 +1025,6 @@ https://outbound-production.explore.org/stream-production-191/.m3u8
 https://outbound-production.explore.org/stream-production-75/.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Bukowina Tatrza
 https://hls7.webcamera.pl/skywind_cam_1f9295/skywind_cam_1f9295.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Elbl
-http://stream.elblag.net:18080/kim/index.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Elbl
-http://stream.elblag.net:18080/kim2/index.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Gdynia - Skwer Ko
 http://hls8.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Polen - Najstarszy d
@@ -1081,14 +1045,10 @@ https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Praia da Rocha
 https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha | Estática
-https://video-auth1.iol.pt/beachcam/bcrochaportimao/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha | Marina
 https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha | Miradouro
 https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Tocha
-https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
 https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Avencas
@@ -1160,11 +1120,7 @@ https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro de Moel
 https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril
-http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril
 https://video-auth1.iol.pt/beachcam/saopedroestoria/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro do Estoril | Bico Estática
-https://video-auth1.iol.pt/beachcam/bcsaopedrofixa/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Torpes | Estática
 https://video-auth1.iol.pt/beachcam/bcsaotorpes2/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Scharbeutz Ferienwohnung Meersehen
@@ -1293,8 +1249,6 @@ http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
 https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
 #EXTINF:-1 group-title="WEB CAM Y CLIMA",USHUAIA LIVE
 https://www.youtube.com/watch?v=TLZ6LcTDgNs
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Viana do Castelo | Afife | Arda
-https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Viana do Castelo | Cabedelo
 https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Nova de Milfontes - Farol
