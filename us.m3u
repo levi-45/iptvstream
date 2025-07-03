@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CinePremiere.us@SD",Cine Premiere (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CinePremiere.us@SD",Cine Premiere (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
+#EXTINF:-1 tvg-id="CineAdrenalina.us@SD",Cine Adrenalina (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="CineAdrenalina.us@SD",Cine Adrenalina (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="AlHayatTV.us@SD",Al Hayat TV (720p)
 https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="247Retro.us",247 Retro TV (432p) [Not 24/7]
@@ -948,8 +956,6 @@ https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8
 https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us",TeenNick
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="PopTV.us",Pop TV
-https://fl3.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="AXSTV.us",AXS TV
@@ -965,7 +971,7 @@ http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV
 https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8
 #EXTINF:-1 tvg-id="WSBDT1.us@SD",WSB-DT1
-https://live20.bozztv.com/dvrfl05/gin-abc/index.m3u8
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
 #EXTINF:-1 tvg-id="SBTN.us@SD",SBTN
 https://live20.bozztv.com/dvrfl05/gin-netviet/index.m3u8
 #EXTINF:-1 tvg-id="TBNInspire.us@SD",TBN Inspire
@@ -977,7 +983,7 @@ https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8
 #EXTINF:-1 tvg-id="WABEDT1.us@SD",WABE-DT1
 https://live20.bozztv.com/dvrfl05/gin-peachtree/index.m3u8
 #EXTINF:-1 tvg-id="ParsTV.us@SD",Pars TV
-https://live20.bozztv.com/dvrfl05/gin-parstv/index.m3u8
+http://dvrfl05.bozztv.com/gin-parstv/index.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.us@SD",Salaam TV
 http://dvrfl05.bozztv.com/gin-salamtv/index.m3u8
 #EXTINF:-1 tvg-id="AppleValleyChannel180.us@SD",Apple Valley Channel 180
@@ -1043,9 +1049,9 @@ https://dvrfl03.bozztv.com/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us@SD",Kajou TV
 https://dvrfl03.bozztv.com/hdirect/hdirect-kajoutv/index.m3u8
 #EXTINF:-1 tvg-id="PositivTV.us@SD",Positiv TV
-https://live20.bozztv.com/trn03/gin-positiv/index.m3u8
+http://trn03.bozztv.com/gin-positiv/index.m3u8
 #EXTINF:-1 tvg-id="WLVTDT1.us@SD",WLVT-DT1
-https://live20.bozztv.com/trn03/gin-pbstv/index.m3u8
+https://dvrfl03.bozztv.com/hondu/hondu-gbp-pbs/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTVNetwork.us@SD",Impact TV Network
 https://live20.bozztv.com/trn03/gin-impacttv/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasrUSA.us",MBC Masr USA (1080p)
@@ -1054,8 +1060,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us",MBC 1 USA (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic
-https://live20.bozztv.com/dvrfl06/astv/astv-nationalgeographic/index.m3u8
 #EXTINF:-1 tvg-id="AyenehTV.us@SD",Ayeneh TV
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us@SD",Payam Javan TV
@@ -1066,8 +1070,6 @@ https://live20.bozztv.com/gin-36bay3/gin-afghanimantv/index.m3u8
 https://live20.bozztv.com/gin-36bay3/gt-usarmenia/index.m3u8
 #EXTINF:-1 tvg-id="PanarmenianTV.us@SD",Panarmenian TV
 https://live20.bozztv.com/gin-36bay3/gt-panarmenian/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (720p)
-https://ott.udptv.org/stream/udptvus/foxnews/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 #EXTINF:-1 tvg-id="TBN.us@East",TBN
 https://live20.bozztv.com/dvrfl03/hdirect/hdirect-tbn/index.m3u8
 #EXTINF:-1 tvg-id="MeritStreet.us@SD",Merit Street [Geo-blocked]
@@ -1094,3 +1096,45 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheNest.us",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD",Fox Sports 2 (720p)
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.us@HD",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="WAGADT1.us@SD",WAGA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-rick-fox5/index.m3u8
+#EXTINF:-1 tvg-id="WKOHDT4.us@SD",WKOH-DT4
+https://dvrfl03.bozztv.com/hondu/hondu-pbs-kids/index.m3u8
+#EXTINF:-1 tvg-id="WKCFDT2.us@SD",WKCF-DT2
+https://dvrfl03.bozztv.com/hondu-lxnews/index.m3u8
+#EXTINF:-1 tvg-id="TUDN.us@SD",TUDN
+https://dvrfl03.bozztv.com/hondu-canal12/index.m3u8
+#EXTINF:-1 tvg-id="AlientoVision.us@SD",Aliento Vision
+https://dvrfl03.bozztv.com/hondu-alientovision/index.m3u8
+#EXTINF:-1 tvg-id="WHSGDT4.us@SD",WHSG-DT4
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-enlacetv-atl/index.m3u8
+#EXTINF:-1 tvg-id="24Kitchen.us@Serbia",24Kitchen Serbia (720p)
+http://91.132.74.5:8000/play/a00a
+#EXTINF:-1 tvg-id="PlutoTVThrillers.us@Spain",Pluto TV Thrillers Spain
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=false
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD",Pluto TV Estrellas de Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=false
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@US",Pluto TV Cine Estelar
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.us@US",Pluto TV Cine Accion
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false
+#EXTINF:-1 tvg-id="BobEsponja.us@LATAM",Bob Esponja LATAM
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94b33a50-52dc-11ed-8a57-a7949f30f39c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c32ca8be-d69f-4d5d-af36-5defdd524167&userId=&serverSideAds=false
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD",SBN TV International
+http://trn03.bozztv.com/gin-sbntv/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@SpainPlus",Pluto TV Cine Estelar Spain+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="WUPADT1.us@SD",WUPA-DT1
+https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@East",Galavision
+http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8
+#EXTINF:-1 tvg-id="Freeform.us",Freeform (720p)
+https://tvpass.org/live/FreeformEast/hd
+#EXTINF:-1 tvg-id="BabyFirst.us@Spanish",BabyFirst Spanish
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.us",Turismo HD (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8

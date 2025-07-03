@@ -15,8 +15,8 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
 #EXTINF:-1 tvg-id="AnixeHDSerie.de",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p)
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de",ARD-alpha (720p) [Not 24/7]
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="AristoTV.de",Aristo TV (360p)
@@ -127,8 +127,6 @@ https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="Juwelo.de",Juwelo (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de",kabel eins (576p)
-https://s6.hopslan.com/kabel1x1/index.m3u8
 #EXTINF:-1 tvg-id="Kanal12SprembergTV.de",Kanal12 Spremberg TV (404p) [Not 24/7]
 https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalAvrupa.de",Kanal Avrupa (1080p)
@@ -497,3 +495,37 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
 https://elephant.t62a.com/hls/8103/index.m3u8
 #EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="labor14.de@HD",labor14 (720p)
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
+#EXTINF:-1 tvg-id="RTL.de@SD",RTL
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/1492521887?profile=pass
+#EXTINF:-1 tvg-id="sixx.de@SD",sixx
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/197699361?profile=pass
+#EXTINF:-1 tvg-id="Voxup.de@SD",Voxup
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/1205817593?profile=pass
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de@HD",ProSieben Maxx HD
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/1753487641?profile=pass
+#EXTINF:-1 tvg-id="kabeleins.de@SD",kabel eins
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/192391842?profile=pass
+#EXTINF:-1 tvg-id="RTLup.de@HD",RTLup HD
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/124681379?profile=pass
+#EXTINF:-1 tvg-id="VOX.de@HD",VOX
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/44434500?profile=pass
+#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
+https://cachehsi1a.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD (720p)
+https://cachehsi1a.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
+https://cachehsi1a.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="DasErste.de" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1",Das Erste (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+https://cachehsi1a.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1 tvg-id="ProSieben.de" http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1",ProSieben (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/452854763?profile=pass
+#EXTINF:-1 tvg-id="RTLSuper.de@SD",RTL Super
+https://trn09.bozztv.com/gin-superrtl/index.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
