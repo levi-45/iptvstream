@@ -523,16 +523,12 @@ https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Horní Bečva - Rališka
 http://31.47.96.14:80/hls/raliska.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Horní Bečva - Rališka_Horní stanice
-http://31.47.96.14:80/hls/raliska2.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Hutisko-Solanec
 http://31.47.96.14:80/hls/hutisko.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera na Radhošti - Kaple
 http://31.47.96.14:80/hls/radhostkaple.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera na Radhošti - východ
 http://31.47.96.14:80/hls/radhostvychod.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Valašská Bystřice - Búřov
-http://31.47.96.14:80/hls/burov.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Vidče
 http://31.47.96.14:80/hls/vidce.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Zašová
@@ -719,8 +715,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/579.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/580.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-581
 http://ibb-media2.ibb.gov.tr:1935/live/581.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-582
-http://ibb-media2.ibb.gov.tr:1935/live/582.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-590
 http://ibb-media2.ibb.gov.tr:1935/live/590.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-594
@@ -777,8 +771,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/765.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/768.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-769
 http://ibb-media2.ibb.gov.tr:1935/live/769.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-772
-http://ibb-media2.ibb.gov.tr:1935/live/772.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-779
 http://ibb-media2.ibb.gov.tr:1935/live/779.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-788
@@ -789,8 +781,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/794.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/820.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-826
 http://ibb-media2.ibb.gov.tr:1935/live/826.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-834
-http://ibb-media2.ibb.gov.tr:1935/live/834.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-835
 http://ibb-media2.ibb.gov.tr:1935/live/835.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-845
@@ -915,8 +905,6 @@ https://584b389d712f9.streamlock.net/live2/blokzijl2.stream/HasBahCa.m3u8
 http://mtxstr001.matrixdata.nl/live/vuurtoren.stream/chunklist_w2084393416.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",NL - Rotterdam 7
 http://cdn22d.streampartner.nl/berartvd/berartvd.stream/chunklist_w1217637226.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",NL - Vlissingen
-http://cdn15.streampartner.nl/interact1037_2/interact1037_2.stream/chunklist_w2093434315.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Northern Lights
 https://outbound-production.explore.org/stream-production-77/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Norway: Finse (Hotel Finse 1222)
@@ -973,16 +961,12 @@ http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.strea
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Lodz Airport
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Lodz Airport
-https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek3.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Nowy Sacz Lososina Dolna Airfield
 https://videocdn.km-net.pl/Lososina_Dolna/index.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Olsztyn
 http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Poland - Slowik Ski
 http://91.224.104.112:8181/xxx_wyciag_II/index.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",Poland - Slowik Ski 2
-http://91.224.104.112/xxx_wyciag_III/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Sopot
 http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
 #EXTINF:-1 group-title="EU_POLAND_webcam",Poland - TV Cam
@@ -1033,8 +1017,6 @@ https://hls8.webcamera.pl/dab-bartek_cam_187c42/dab-bartek_cam_187c42.stream/pla
 https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Porto - Carneiro
 https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Canide Norte - Sul
-https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Barra
 https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
 #EXTINF:-1 group-title="LATINO_CAM",Praia da Cresmina
@@ -1047,8 +1029,6 @@ https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha | Marina
 https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha | Miradouro
-https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torreira
 https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Avencas
@@ -1141,12 +1121,8 @@ http://maybach.railcam.co.uk/Abergynolwyn_68473/tracks-v1/mono.m3u8
 http://maybach.railcam.co.uk/ApperleyBridge_20194/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Bishops Lydeard Station
 http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Blue Anchor Station
-http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Corfe Station
 http://maybach.railcam.co.uk:80/Corfe_14435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Cramlington
-https://maybach.railcam.co.uk/Cramlington_54382/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Crewe
 https://maybach.railcam.co.uk/Crewe2_16754/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Dawlish
@@ -1165,10 +1141,6 @@ https://maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8
 http://89.16.164.68:80/SVR-Kidderminster-C2_094871/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Minehead Station
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - New Romney 2
-https://maybach.railcam.co.uk/NewRomney2_27157/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Orton Mere
-http://maybach.railcam.co.uk/NVR-Orton-Mere_39273/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Princes
 https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK - Ribblehead
@@ -1201,8 +1173,6 @@ http://stream.wildlifestreaming.io:1935/Marwell/marwell_flamingo.stream/playlist
 https://maybach.railcam.co.uk/BishopsLydeard_59234/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",UK rail - Crewe Cam 1 - Chester Lines
 https://maybach.railcam.co.uk/Crewe1_69241/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",UK rail - Orton Mere
-https://maybach.railcam.co.uk/NVR-Orton-Mere_39273/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Underwater Coral
 https://outbound-production.explore.org/stream-production-105/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Underwater Manatee
@@ -1227,14 +1197,8 @@ http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 http://live.idnes.cz/slow/krmitkousa/HasBahCa.m3u8
 #EXTINF:-1 group-title="USA_webcam",USA - Kure Beach
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
-#EXTINF:-1 group-title="USA_webcam",USA - Panda 3
-https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/HasBahCa.m3u8
 #EXTINF:-1 group-title="USA_webcam",USA - Platypus
 https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/HasBahCa.m3u8
-#EXTINF:-1 group-title="USA_webcam",USA - Schooners Sunset Cam
-https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/HasBahCa.m3u8
-#EXTINF:-1 group-title="USA_webcam",USA - Schooners Sunset Cam
-http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
 #EXTINF:-1 group-title="USA_webcam",USA - Southport
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="USA_webcam",USA - Southport

@@ -43,8 +43,8 @@ https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:-1 tvg-id="TFM.sn",TFM (720p)
 http://69.64.57.208/tfm/playlist.m3u8
-#EXTINF:-1 tvg-id="TFM.sn",TFM (720p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8
+#EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
+http://trn03.bozztv.com/gin-tfmtv/index.m3u8
 #EXTINF:-1 tvg-id="WalfTV.sn",Walf TV (360p)
 http://69.64.57.208/walftv/playlist.m3u8
 #EXTINF:-1 tvg-id="YakaarTV.sn",Yakaar TV (1080p)
@@ -67,3 +67,7 @@ https://live20.bozztv.com/dvrfl06/astv/astv-toubatv/index.m3u8
 https://live20.bozztv.com/dvrfl06/astv/astv-asfiyahilive/index.m3u8
 #EXTINF:-1 tvg-id="AlMouridiyyahTV.sn@SD",Al Mouridiyyah TV
 https://live20.bozztv.com/dvrfl06/astv/astv-AlMouridiyyahTV/index.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD",Diaspora 24 [Geo-blocked]
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8

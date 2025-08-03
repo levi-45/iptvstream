@@ -67,8 +67,6 @@ https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
 https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@West",Disney XD West (720p)
-https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="E.us@East",E! East
 https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us",ESPN U (720p)
@@ -105,8 +103,6 @@ https://fl3.moveonjoy.com/FXX/index.m3u8
 https://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="GetTV.us",GetTV (480p)
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us",Golf Channel
-https://fl3.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Grit.us",Grit
 https://fl3.moveonjoy.com/GRIT_TV/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East
@@ -175,6 +171,8 @@ https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us",NHL Network (720p)
 https://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl5.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr East
 https://fl3.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
@@ -245,8 +243,6 @@ https://fl5.moveonjoy.com/TSN_3/index.m3u8
 https://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN5.ca",TSN5
 https://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TVLand.us@East",TV Land East
-https://fl3.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us",TV One
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="UpTV.us",Up TV (1080p)
