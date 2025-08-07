@@ -495,8 +495,6 @@ https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Carvoeiro
 https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
-#EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",CH Lausanne Vaud
-http://145.232.235.226:80/mjpg/video.mjpg
 #EXTINF:-1 group-title="VIETNAM_WebCam",cổng sau Bệnh viện C Đà Nẵng
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=b6mdgPBqAi8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Công trình Bệnh viện Đà Nẵng
@@ -505,16 +503,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=1M2IE21aUy4
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Costa de Caparica - CDS Norte
 https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - CDS Sul
-https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Praia Nova
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - Riviera
 https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS NORTE | Estática
 https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | CDS SUL | Estática
-https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Praia Nova | Estática
 https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica | Tarquínio
@@ -623,8 +617,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/375.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/378.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-381
 http://ibb-media2.ibb.gov.tr:1935/live/381.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-382
-http://ibb-media2.ibb.gov.tr:1935/live/382.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-386
 http://ibb-media2.ibb.gov.tr:1935/live/386.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-389
@@ -743,8 +735,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/635.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/644.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-648
 http://ibb-media2.ibb.gov.tr:1935/live/648.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-652
-http://ibb-media2.ibb.gov.tr:1935/live/652.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-661
 http://ibb-media2.ibb.gov.tr:1935/live/661.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-663
@@ -769,8 +759,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/764.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/765.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-768
 http://ibb-media2.ibb.gov.tr:1935/live/768.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-769
-http://ibb-media2.ibb.gov.tr:1935/live/769.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-779
 http://ibb-media2.ibb.gov.tr:1935/live/779.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-788
@@ -1053,8 +1041,6 @@ https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
-#EXTINF:-1 group-title="EU_PORTUGAL_webcam",Praia do Meco
-https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Praia do Peneco
 https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Vau

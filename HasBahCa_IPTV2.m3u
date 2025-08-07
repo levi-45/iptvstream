@@ -275,10 +275,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="SPAIN_PLUTO",Anime | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Animé Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Anime Acción | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="BRASIL_PLUTO",Anime Ação | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="BRASIL_PLUTO",Anime Ação | Pluto TV Brasil
@@ -359,8 +355,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/32de2750-7c29-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=CH&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
 #EXTINF:-1 group-title="SPAIN_PLUTO",Asesinatos de Midsomer | Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20250218T040014SQUARE.png",Au coin du feu
-https://jmp2.uk/sam-FRBD1500001BN.m3u8
 #EXTINF:-1 group-title="DE - German_PLUTO",Auto Motor Sport
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="DE - GERMAN_TVPLUS",auto motor und sport
@@ -679,8 +673,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c5
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
 #EXTINF:-1 group-title="IN - English News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100021WP_20240131T032221SQUARE.png_20240131032222.png",Bloomberg TV
 https://jmp2.uk/sam-INBA5100021WP.m3u8
-#EXTINF:-1 group-title="AUSTURALIA_TVPLUS",Bloomberg TV (Australia)
-https://bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="SKANDINAV_FINLAND_TVPLUS",Bloomberg TV (Denmark)
 https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DE - GERMAN_TVPLUS",Bloomberg TV+
@@ -23783,8 +23775,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 #EXTINF:-1 group-title="SPAIN_PLUTO",Cine JaJa | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN",Ciné Nanar
-https://d2o63bkh2qz410.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-FR-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="SWITZERLAND_TVPLUS",Ciné Nanar [FR]
 https://d3lwqzsafhkf1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CineNanar-CH-prod/cinenanar/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="FR - Chaînes en français" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900007I2_20220323T073619SQUARE.png_20220323073621.png",Ciné Nanar [FR]
@@ -24275,24 +24265,16 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/sam-INBD13000053R.m3u8
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1200001N2_20241015T040252SQUARE.png",Doc Story
 https://jmp2.uk/sam-FR1200001N2.m3u8
-#EXTINF:-1 group-title="FRANCE_PLUTO",Doctor Who
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d359c98f262f00070c364e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="SPAIN_PLUTO",Doctor Who
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="ITALIA_PLUTO" tvg-logo="https://i.imgur.com/oewPc3b.png",Doctor Who – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="SPAIN_PLUTO",Doctor Who | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="FRANCE_PLUTO",Doctor Who | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d359c98f262f00070c364e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="INDIA_PLuto",Doctor Who Classic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=532&deviceId=5ce4475cd43850831ca91ce7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Doctor Who Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="ITALIA_PLUTO",Doctor Who Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR26000089E_20241210T052731SQUARE.png",Documentaires - Rakuten TV
 https://jmp2.uk/sam-FR26000089E.m3u8
 #EXTINF:-1 group-title="ITALIA_PLUTO",Documentari – Pluto TV
@@ -24435,8 +24417,6 @@ https://elec-en.otteravision.com/elec/en/elec_en.m3u8
 https://jmp2.uk/sam-USBC6000225M.m3u8
 #EXTINF:-1 group-title="LG_Channels",Emotional
 https://zylo-emotional-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN",Emotion'L
-https://diqx5lyj19frh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Emotionelle-FR-prod/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20241015T035931SQUARE.png",Emotion'L
 https://jmp2.uk/sam-FRBB340000115.m3u8
 #EXTINF:-1 group-title="SWITZERLAND_TVPLUS",Emotion'L [FR]
@@ -24471,8 +24451,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/
 https://jmp2.uk/sam-FRBD5100003TP.m3u8
 #EXTINF:-1 group-title="SPAIN_PLUTO",Escape Perfecto | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605e479d5b8229000763e697/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Argentina_PLUTO 1",España | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Argentina_PLUTO 1",E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Argentina_PLUTO 1",E-Sports | Pluto TV Argentina
@@ -24627,8 +24605,6 @@ https://failarmy-international-nl.samsung.wurl.tv/playlist.m3u8
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400002XF_20241112T093135SQUARE.png",Faites entrer l'accusÃ©
 https://jmp2.uk/sam-FR1400002XF.m3u8
-#EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD15000010I_20240507T093323SQUARE.png",Falò
-https://jmp2.uk/sam-ITBD15000010I.m3u8
 #EXTINF:-1 group-title="Latino_PLUTOTV",Familien fra Bryggen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c19c8c9863900007acaa57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR2600001PI_20250107T024943SQUARE.png",Famille - Rakuten TV
@@ -24839,8 +24815,6 @@ https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8
 https://jmp2.uk/sam-KRBD44000025L.m3u8
 #EXTINF:-1 group-title="Distro_TV",Fireplace Lounge
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25045&ads.show_id=653&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fireplace%20Lounge&ads.episodetitle=Fireplace%20Lounge&ads.keywords=fireplace%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
-#EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1500003SD_20240507T093254SQUARE.png",FireScape
-https://jmp2.uk/sam-GBBD1500003SD.m3u8
 #EXTINF:-1 group-title="Distro_TV",Fish Tank
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25073&ads.show_id=654&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fish%20Tank&ads.episodetitle=Fish%20Tank&ads.keywords=fish%20tank%2Clounge%20video&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Flicks of Fury
@@ -24943,8 +24917,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="US - Game Shows" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700027GW_20240116T231239SQUARE.png_20240116231240.png",Game Show Central
 https://jmp2.uk/sam-CAAJ2700027GW.m3u8
-#EXTINF:-1 group-title="FRANCE_PLUTO",Gaming TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20250307T151932SQUARE.png",Garfield
 https://jmp2.uk/sam-FRBB4600001MQ.m3u8
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Garfield and Friends
@@ -25077,12 +25049,8 @@ https://amogonetworx-grjngo-4-de.lg.wurl.tv/playlist.m3u8
 https://amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="IT - Film - IT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20240117T032919SQUARE.png_20240117032919.png",Grjngo- Film Western
 https://jmp2.uk/sam-ITBD10000019E.m3u8
-#EXTINF:-1 group-title="BRASIL_PLUTO",Guia de Canais | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="MEXICO_PLUTO",Guía de canales
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Guía de canales | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Gunsmoke
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Distro_TV",Gusto TV
@@ -25199,8 +25167,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 group-title="Argentina_PLUTO 1",Hogar | Pluto TV Argentina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="ES - Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20240829T163355SQUARE.png",Hoguera
-https://jmp2.uk/sam-ESBD1500001SD.m3u8
 #EXTINF:-1 group-title="INT - Entertainment" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000035R_20220824T022346SQUARE.png_20220824022346.png",Hollywire
 https://jmp2.uk/sam-CABC23000035R.m3u8
 #EXTINF:-1 group-title="US - Life Stories & Culture - US" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20240520T214806SQUARE.png",Hollywire
@@ -25661,12 +25627,6 @@ https://jmp2.uk/sam-FR4200001BN.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a8a84ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 group-title="Distro_TV",Lacrosse TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lax/LSN_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22776&ads.content_duration=18000&ads.episode_id=16040&ads.show_id=545&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lacrosse%20TV&ads.episodetitle=Lacrosse%20TV&ads.keywords=Lacrosse&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=lax
-#EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1500001X4_20240507T094006SQUARE.png",Lagerfeuer
-https://jmp2.uk/sam-ATBD1500001X4.m3u8
-#EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD150000135_20240507T094046SQUARE.png",Lagerfeuer
-https://jmp2.uk/sam-CHBD150000135.m3u8
-#EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD1500001VJ_20240507T094117SQUARE.png",Lagerfeuer
-https://jmp2.uk/sam-DEBD1500001VJ.m3u8
 #EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT1100001B5_20240611T060849SQUARE.png",Landlust TV
 https://jmp2.uk/sam-AT1100001B5.m3u8
 #EXTINF:-1 group-title="INT - Lifestyle" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1100001CQ_20240611T061037SQUARE.png",Landlust TV
@@ -26103,8 +26063,6 @@ https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://bec-moreu-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="LOCALNOW_TV",MotoAmerica
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8
-#EXTINF:-1 group-title="Distro_TV",MotoAmerica TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22964&ads.content_duration=18000&ads.episode_id=66325&ads.show_id=2507&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=MotoAmerica%20TV&ads.episodetitle=MotoAmerica%20TV&ads.keywords=MotoAmerica&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=motoamerica
 #EXTINF:-1 group-title="FRANCE_TV+_RAKUTEN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20241015T040359SQUARE.png",Motor Racing
 https://jmp2.uk/sam-FRBD4100013LN.m3u8
 #EXTINF:-1 group-title="SWITZERLAND_TVPLUS",MotorRacing
@@ -26319,14 +26277,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="SPAIN_PLUTO",MTV Shore | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 group-title="Argentina_PLUTO 1",MTV Spankin' New
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="INDIA_PLuto",MTV Spankin' New
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Argentina_PLUTO 1",MTV Spankin' New | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="SPAIN_PLUTO",MTV Tatoo a dos | Pluto TV Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="SPAIN_PLUTO",MTV Tattoo a dos
@@ -28717,10 +28671,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c0b7eb8929e40007ff51
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="ENGLAND_PLUTO" tvg-logo="https://i.imgur.com/Uuc5h1s.png",Pluto TV Game Show Central (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="FRANCE_PLUTO",Pluto TV Gaming TV (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="DE - German_PLUTO" tvg-logo="https://i.imgur.com/XkGjMTg.png",Pluto TV Gaming TV (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 group-title="Latino_PLUTOTV",Pluto TV Geek e Tech
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ENGLAND_PLUTO" tvg-logo="https://i.imgur.com/6f7TTZC.png",Pluto TV Get.factual (720p) [Not 24/7]
@@ -29925,8 +29875,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d393e55
 https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:-1 group-title="INT - Sport" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20240827T040639SQUARE.png",Salto Ostacoli - Global Equestrian Champions TV
 https://jmp2.uk/sam-ITBC3000007XK.m3u8
-#EXTINF:-1 group-title="DE - German_PLUTO",Sam & Cat
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="ITALIA_PLUTO" tvg-logo="https://i.imgur.com/iYyijeJ.png",Sanctuary – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="KOREA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20240703T020446SQUARE.png",SBS TV 동물농장
@@ -30295,8 +30243,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21e7b24744c60007c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="INT - Entertainment" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800007BN_20240117T032839SQUARE.png_20240117032839.png",Survivor
 https://jmp2.uk/sam-GBBB3800007BN.m3u8
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Susana Giménez | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a91425/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Latino_PLUTOTV",SvampBob Fyrkant
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c0ba0816e2fd00086cb6b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Latino_PLUTOTV",SvampeBob Firkant
@@ -30387,12 +30333,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62619405c
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="ES - Deportes - ES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png",Teledeporte
 https://jmp2.uk/sam-ESBC410000577.m3u8
-#EXTINF:-1 group-title="Argentina_PLUTO 1",TELEFÉ CLÁSICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Telefe Hits
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Argentina_PLUTO 1",Telefe Hits | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="INDIA_PLuto",Telemundo Telenovelas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="USA_PLUTO  (long time to connect )",Telemundo telenovelas clásicas

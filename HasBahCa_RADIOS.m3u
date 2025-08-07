@@ -889,16 +889,8 @@ https://arnavut2.80.yayin.com.tr/;
 http://stream.arrobba.com.mx:24000/stream/1/
 #EXTINF:-1 group-title="WR LOUNGE Radio" tvg-logo="https://www.radio.pervii.com/logo/101260.jpg",ARROW LOUNGE RADIO - 192 kbit/s
 http://stream.player.arrow.nl/arrow?=4
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",ART FM Antalya
-http://yayin.liderhost.net:9338/;stream.mp3
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",ART FM Antalya
-http://yayin.liderhost.net:9338/;
 #EXTINF:-1 group-title="WR CHILLOUT Radio" tvg-logo="https://www.radio.pervii.com/im/3/1563635693.jpg",ART OF MUSIC • Web Radio - 128 kbit/s
 http://46.105.111.94:8024/stream/1/
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",ARTI FM
-http://95.173.188.155:9322/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Artı FM
-http://95.173.188.155:9322/stream/1/?icy=http
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",Asia FM亚洲经典台
 https://lhttp.qingting.fm/live/5021912/64k.mp3
 #EXTINF:-1 group-title="EU_GREEK_Radio",ASTRA FM 97.3
@@ -1916,14 +1908,6 @@ http://s7.voscast.com:7730/stream/1/
 #EXTINF:-1 group-title="EU_MOLDOVA_Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19147.v4.png",Digi FM
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",DİJİTAL RADYO
-http://yayin.liderhost.net:9406/;stream.mp3
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",DİJİTAL RADYO
-http://yayin.liderhost.net:9406/DİJİTAL RADYO
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",DİJİTAL RADYO
-http://yayin.liderhost.net:9406/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",DİJİTAL RADYO
-http://yayin.liderhost.net:9406/DİJİTAL
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",DİJİTAL RADYO
 https://anadolu.liderhost.com.tr:10961/;
 #EXTINF:-1 group-title="WR HIP Radio" tvg-logo="https://www.radio.pervii.com/im/4/1555206044.jpg",Dilemaradio - Hip Hop Rap Radio Station - 128 kbit/s
 https://dilemaradiolive.radioca.st/stream/1/
@@ -2633,8 +2617,6 @@ http://yayin2.yayindakiler.com:4252/stream.mp3
 http://yayin2.yayindakiler.com:4252/;
 #EXTINF:-1 group-title="WR AMBIENT Radio",GOLD INSTRUMENTAL - 128 kbit/s
 http://199.233.234.34:25373/stream/1/
-#EXTINF:-1 group-title="EU_GREEK_Radio",GOLD RADIO
-http://193.92.78.248:8000/;
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",GOLD TÜRK
 http://dijimedya.radyotvonline.net/goldturk
 #EXTINF:-1 group-title="WR 70S Radio" tvg-logo="https://www.radio.pervii.com/im/6/1551939896.jpg",GOLD WEB RADIO - 96 kbit/s
@@ -2767,14 +2749,8 @@ https://anadolu.liderhost.com.tr:10980/;
 http://anadolu.liderhost.com.tr:3696/;
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",HALK RADYO
 https://anadolu.liderhost.com.tr:10876/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Hamsi FM
-http://yayin.liderhost.net:8028/stream
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",HAMSİ FM
-http://yayin.liderhost.net:8028/;stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",HAMSİ FM
 http://radyo.hamsi.fm:8050/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",HAMSİ FM
-http://yayin.liderhost.net:8028/;
 #EXTINF:-1 group-title="WR DANCE Radio" tvg-logo="https://www.radio.pervii.com/im/3/1537511763.jpg",HandsUp and More - 48 kbit/s
 http://aacl.stream.tb-group.fm:80/tb-low.aac
 #EXTINF:-1 group-title="WR QUR'AN",Hani Ar Rifa'i
@@ -3763,8 +3739,6 @@ http://yayin1.yayindakiler.com:3032/;stream.mp3
 http://yayin1.yayindakiler.com:3032/;
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Magic FM 92.0
 http://yayin1.yayindakiler.com:3032/stream/1/
-#EXTINF:-1 group-title="EU_GREEK_Radio",MAGIC FM AGRINIO 102.9
-http://live.magicfmagrinio.net:9500/;
 #EXTINF:-1 group-title="WR FOLK Radio" tvg-logo="https://www.radio.pervii.com/logo/1403805378.png",MAGIC MALTA - 128 kbit/s
 http://s46.myradiostream.com:6076/stream/1/
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Magic Radio 80s Hits
@@ -3827,8 +3801,6 @@ http://stream.maxifrance.fr:8358/stream
 https://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="EU_GREEK_Radio",MAXIMUM FM 93.6
 http://s1.onweb.gr:8838/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",MAXİMUM RADYO
-http://yayin.liderhost.net:9406/;
 #EXTINF:-1 group-title="WR DANCE Radio" tvg-logo="https://www.radio.pervii.com/logo/17133.jpg",MaXXima - 192 kbit/s
 http://maxxima.mine.nu:8000/maxxima.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Mayday Records
@@ -3905,8 +3877,6 @@ http://stream.melody888.gr:48500/melody.mp3
 https://sslyayin.radyoyayini.com:7007/stream
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",MERKEZ FM Samsun
 http://uydu.radyotvyayini.com:8016/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Mesk FM
-http://sunucu2.radyolarburada.com:8000/stream.mp3
 #EXTINF:-1 group-title="RUS_EXCCCP_Radio",Metal
 https://tinyurl.com/ybgcbxld
 #EXTINF:-1 group-title="EU_FRANCE_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1549789413.jpg",Metal Express Radio - 192 kbit/s
@@ -4303,8 +4273,6 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3890
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3e06878b9_1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",NUMBER 1 LOUNGE
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fbcb763_1/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",NUMBER 1 RNB
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3aecf0941_1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",NUMBER 1 ROCK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",NUMBER 1 SLOW
@@ -4551,8 +4519,6 @@ https://anadolu.liderhost.com.tr:10934/;
 http://impradio.bytemasters.gr:8002/stream
 #EXTINF:-1 group-title="EU_GREEK_Radio",PELLA FM 103.3
 https://i7.streams.ovh/sc/pellafm/stream
-#EXTINF:-1 group-title="EU_GREEK_Radio",PERFECT RADIO 103.3
-http://solid1.streamupsolutions.com:54987/stream
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Périgord 99.3 FM
 https://stream.radiofrance.fr/fbperigord/fbperigord_midfi.m3u8?id=radiofrance
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Phare FM Ébène
@@ -5751,8 +5717,6 @@ http://51.255.8.139:8822/stream
 http://audio1.meway.tv:8108/stream/1/
 #EXTINF:-1 group-title="EU_ITALIA_Radio" tvg-logo="https://www.radio.pervii.com/im/0/1550747240.jpg",Radio Punto Zero - Canta che ti passa - 128 kbit/s
 http://95.154.219.99:7100/stream/1/
-#EXTINF:-1 group-title="EU_PORTUGAL_Radio",Rádio Quântica
-https://stream.radioquantica.com:8443/stream
 #EXTINF:-1 group-title="WR JAZZ Radio" tvg-logo="https://www.radio.pervii.com/logo/7855.jpg",Radio Radio Network - Marbella v2 - 128 kbit/s
 http://www.radioradio.es:8000/stream/1/
 #EXTINF:-1 group-title="EU_POLAND_Radio",Radio RAM
@@ -6015,8 +5979,6 @@ http://asculta.radioromanian.net:8500/stream/1/
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 #EXTINF:-1 group-title="WR MIXED Radio" tvg-logo="https://www.radio.pervii.com/im/0/1556549870.jpg",Radio Royal - 64 kbit/s
 http://streamplus31.leonex.de:37034/stream/1/
-#EXTINF:-1 group-title="EU_POLAND_Radio",Radio Róża Miłości
-https://s3.slotex.pl/shoutcast/7338/stream
 #EXTINF:-1 group-title="EU_POLAND_Radio",Radio Różaniec /katolickie/
 http://51.255.235.165:5696/stream
 #EXTINF:-1 group-title="EU_POLAND_Radio",Radio Rzeszów
@@ -6025,8 +5987,6 @@ https://streaming.g-news.pl:8040/rzeszow
 http://2stream.dyndns.org:8000/rsb
 #EXTINF:-1 group-title="WR SALSA Radio" tvg-logo="https://www.radio.pervii.com/im/5/1551594405.jpg",Radio Salsa4te - 192 kbit/s
 http://188.165.206.81:8100/stream/1/
-#EXTINF:-1 group-title="EU_POLAND_Radio",Radio Sami Swoi
-https://s2.radio.co/s0dc6b5c9b/listen
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radio SANDRO - E1
 https://stream.zeno.fm/qv6yvcke3lsuv
 #EXTINF:-1 group-title="EU_POLAND_Radio",Radio SantoriRPG
@@ -6547,14 +6507,8 @@ http://yayin2.canliyayin.org:7222/;
 https://trkvz-radyolar.ercdn.net/radyoenergy/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO ENGELSİZ ERİŞİM
 https://radyo1.radyo-dinle.tc:7034/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO ERKAN
-http://sunucu2.radyolarburada.com:8095/;stream.mp3
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO ERKAN
-http://sunucu2.radyolarburada.com:8095/;
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO ES Almanya
 http://radyoes.kesintisizyayin.com:7216/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Extra
-http://radyo.yayin.com.tr:8117/stream.nsv
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR" tvg-logo="http://1.bp.blogspot.com/-KAqeUg4lIRA/VhBL2J_i2YI/AAAAAAAAMQs/jd8ajrnDeOA/s1600/radyofb.jpg",RADYO FENERBAHÇE
 http://91.232.174.18:8000/Stream
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO FENERBAHÇE
@@ -6585,8 +6539,6 @@ https://ssl4.radyotvonline.com/radyohome/radyogolhome.stream_aac/playlist.m3u8
 https://ssl120.radyotelekom.com.tr/8340/stream
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Gökçam
 http://radyo.turkuradyo.net:4591/stream.mp3
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Gönül
-http://sunucu2.radyolarburada.com:8120/stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Gun
 http://95.173.162.188:9952/stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Gül
@@ -6597,8 +6549,6 @@ http://yayin2.canliyayin.org:8866/;
 https://anadolu.liderhost.com.tr:10967/;
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO GÜNBATI
 http://radyogunbati.ozelip.com:9890/;stream.mp3
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO GÜNEY
-http://sunucu2.radyolarburada.com:8250/;stream/1
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Haber
 https://radyo.yayindakiler.com:4118/stream
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO HABER
@@ -6681,8 +6631,6 @@ http://yayin.netyayin.net:2727/1
 http://radyo.yayin.com.tr:5894/stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO KURAN
 https://anadolu.liderhost.com.tr:10995/;
-#EXTINF:-1 group-title="EU_FRANCE_Radio" tvg-logo="https://www.radio.pervii.com/im/5/1549989185.jpg",Radyo Kuran - Kurani Kerim ve Turkce Meali - RadyoKuran.Net - 64 kbit/s
-http://yayin.liderhost.net:8555/stream/1/
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",Radyo Life
 http://yayin2.canliyayin.org:8698/*.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",RADYO LOVE
@@ -7047,8 +6995,6 @@ https://scdn.nrjaudio.fm/adwz1/fr/30421/aac_64.mp3
 https://scdn.nrjaudio.fm/adwz1/fr/55601/aac_64.mp3
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Rire et Chansons - Futurs Talents
 https://scdn.nrjaudio.fm/adwz1/fr/55818/aac_64.mp3
-#EXTINF:-1 group-title="EU_FRANCE_Radio",Rire et Chansons - Humour Du Sud
-https://scdn.nrjaudio.fm/adwz1/fr/55514/aac_64.mp3
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Rire et Chansons - Live
 https://scdn.nrjaudio.fm/adwz1/fr/30409/aac_64.mp3
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Rire et Chansons - Nouvelle Generation
@@ -8197,8 +8143,6 @@ http://radyo.turkuradyo.net:4591/;
 https://moondigitalmaster.radyotvonline.net/turkulerleturkiye/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",TÜRKÜLERLE TÜRKİYE
 http://37.247.98.8/stream/22/
-#EXTINF:-1 group-title="EU_FRANCE_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1549790093.jpg",TX - 128 kbit/s
-http://5.135.158.214:12352/stream/1/
 #EXTINF:-1 group-title="WR WORLDMIX_Radio" tvg-logo="https://www.radio.pervii.com/logo/5843.jpg",u3y9n1ykb - 128 kbit/s
 http://stream.radiojar.com/u3y9n1ykb
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",UFM 100.3 Radio
@@ -8319,8 +8263,6 @@ http://stream.radioreklama.bg/veronika64
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 group-title="EU_FRANCE_Radio",Vfm Radio
 http://str0.creacast.com/vfm_hq.mp3
-#EXTINF:-1 group-title="EU_FRANCE_Radio",viàOccitanie (540p)
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 #EXTINF:-1 group-title="WR LATIN Radio" tvg-logo="https://www.radio.pervii.com/im/7/1556639857.jpg",VIBRACION LATINA - 128 kbit/s
 http://romradio.stream2net.eu:8410/stream/1/
 #EXTINF:-1 group-title="EU_FRANCE_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403654980.png",Vibration [Powered by Infomaniak.net] - 128 kbit/s
@@ -8585,8 +8527,6 @@ http://netradio.live24.gr/ydrogeios1069her
 http://yellowradio.ice.infomaniak.ch/yellowradio.mp3
 #EXTINF:-1 group-title="EU_GREEK_Radio",YELLOW RADIO 101.7
 https://ice.greekstream.net/yellow
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",Yeni Radyo  Her An Yeni
-https://radyo.yayin.com.tr:6191/stream
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",YENİKÖY FM
 https://anadolu.liderhost.com.tr:10924/;
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",YES 933
@@ -8607,8 +8547,6 @@ https://sslyayin.netyayin.net:10921/stream
 http://radyovetv.com:8001/stream.mp3
 #EXTINF:-1 group-title="*TÜRK_RADYOLAR",YOZGAT SURMELI FM
 http://surmelifm.kesintisizyayin.com:8590/;
-#EXTINF:-1 group-title="*TÜRK_RADYOLAR",YönRadyo
-https://stream.radyolarburada.com/radio/8020/yonradyo
 #EXTINF:-1 group-title="EU_GREEK_Radio",YPARXO FM 101.4
 https://cast4.magicstreams.gr:2200/ssl/sc_gr40c?mp=/stream
 #EXTINF:-1 group-title="WR DISCO Radio" tvg-logo="https://www.radio.pervii.com/logo/1403653043.png",YungNFresh - 96 kbit/s
@@ -9177,14 +9115,10 @@ http://ls.qingting.fm/live/1111.m3u8
 http://ls.qingting.fm/live/1110.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",四川-崇州人民广播电台
 http://lhttp.qingting.fm/live/20500066/64k.mp3
-#EXTINF:-1 group-title="ASIA_CHINA_Radio",四川文艺广播 快乐900 FM90.0
-http://ls.qingting.fm/live/4887.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",四川新闻综合广播 FM98.1
 http://ls.qingting.fm/live/4906.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",四川民族广播 AM954
 http://ls.qingting.fm/live/1115.m3u8
-#EXTINF:-1 group-title="ASIA_CHINA_Radio",四川私家车广播 FM92.5
-http://ls.qingting.fm/live/4939.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",四川财富广播 FM94.0
 http://ls.qingting.fm/live/4927.m3u8
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",国乐悠扬
@@ -9415,8 +9349,6 @@ http://lhttp.qingting.fm/live/1257/64k.mp3
 http://lhttp.qingting.fm/live/1271/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",广通-深圳龙岗频道
 http://lhttp.qingting.fm/live/20160/64k.mp3
-#EXTINF:-1 group-title="ASIA_CHINA_Radio",广通-清远农村广播
-http://lhttp.qingting.fm/live/15318679/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",广通-清远综合广播
 http://lhttp.qingting.fm/live/15318668/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",广通-湛江交通音乐广播
@@ -9549,8 +9481,6 @@ http://lhttp.qingting.fm/live/5021665/64k.mp3
 https://lhttp.qingting.fm/live/5021918/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",江西-景德镇交通音乐广播
 https://lhttp.qingting.fm/live/5021829/64k.mp3
-#EXTINF:-1 group-title="ASIA_CHINA_Radio",江西-江西广播电视台民生广播
-http://lhttp.qingting.fm/live/1813/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",江西-赣州音乐广播（2）
 https://lhttp.qingting.fm/live/4942/64k.mp3
 #EXTINF:-1 group-title="ASIA_CHINA_Radio",汽车音乐1029·河北经典音乐广播
