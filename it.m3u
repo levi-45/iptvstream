@@ -24,7 +24,7 @@ https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ABChannel.it",AB Channel (720p) [Geo-blocked]
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it",ACI Sport TV (1080p)
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="Adnkronos.it",Adnkronos (720p)
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmaTV.it",Alma TV (576p)
@@ -137,8 +137,8 @@ https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
 https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldTVSat.it@SD",Gold TV Sat
 https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
-#EXTINF:-1 tvg-id="GRPVERATV.it",GRP VERATV (576p)
-https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GRPVERATV.it@SD",GRP VERATV (576p)
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it@SD",Horse TV (720p)
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="IcaroTV.it",Icaro TV (720p) [Not 24/7]
@@ -749,3 +749,11 @@ https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 #EXTINF:-1 tvg-id="IuniorTV.it@SD",Iunior TV (1080p)
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8
+#EXTINF:-1 tvg-id="BergamoTV.it@SD",Bergamo TV (1080p)
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AntennaSudExtra.it@SD",Antenna Sud Extra (720p)
+https://live.antennasudwebtv.it:9443/hls/vod92.m3u8
+#EXTINF:-1 tvg-id="AntennaSud.it@SD",Antenna Sud (720p)
+https://live.antennasudwebtv.it:9443/hls/vod.m3u8
+#EXTINF:-1 tvg-id="BeJoykids.it",BeJoy.kids (1080p)
+https://64b16f23efbee.streamlock.net:443/bejoy/bejoy/playlist.m3u8
