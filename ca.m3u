@@ -91,7 +91,7 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca",Erfan Halgheh TV (720p)
 https://hls.erfanhalgheh.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EWTN.us@Canada",EWTN Canada (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="EWTN.us@Canada",EWTN Canada (720p)
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
@@ -265,3 +265,5 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
 #EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD",CityNews Edmonton
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8
+#EXTINF:-1 tvg-id="SooriyanTV.ca@SD",Sooriyan TV (1080p)
+https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
