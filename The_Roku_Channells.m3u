@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="The_Roku_Channells",AfroKiddos
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1931
+#EXTINF:-1 group-title="The_Roku_Channells",Afroland TV
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1890
+#EXTINF:-1 group-title="The_Roku_Channells",AFV En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",Bet Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",Black Pix
+https://ce9f57663c854ad49b1cfc035931186b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-BLACKPIX-276-ROKU/mt/roku/276/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",CMT Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=67a4e34f-bc00-53a7-808e-817453df25bc&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=67a4e34f-bc00-53a7-808e-817453df25bc&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=0adc72cd87e45d3491f8e47e54bbcc98&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="The_Roku_Channells",Comedy Cental Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",COPS (Canada)
+https://langley-productions-cops-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276
+#EXTINF:-1 group-title="The_Roku_Channells",Family Feud
+https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999438&ads.xumo_channelName=FamilyFeud&ads.xumo_contentId=170&ads.xumo_contentName=FamilyFeud&ads.xumo_providerId=170&ads.xumo_providerName=FamilyFeud&ads.xumo_adsystem=mediatailor&ads.roku_rtid=V8cmjksncQc48AGwac9u&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=67a4e34f-bc00-53a7-808e-817453df25bc&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=special&ads.roku_ads_content_id=5fbceb7c5ced5eb097f8c35f6ab34af2&ads.roku_ads_app_id=151908&ads.roku_ads_series_id=ROKU_ADS_SERIES_ID&ads.roku_ads_platform_type=web&ads.roku_ads_provider_id=xumo&ads.roku_ads_season_id=ROKU_ADS_SEASON_ID&ads.roku_ads_content_rating=ROKU_ADS_CONTENT_RATING&ads.roku_ads_content_type=livefeed&ads.roku_cust_param_channelstore=us&ads.roku_cust_param_tags=ROKU_CONTENT_TAGS&ads.roku_cust_param_bmodel=bm1&ads.roku_cust_param_device_lang=ROKU_ADS_LOCALE&ads.roku_cust_param_unlocked=UNLOCKED&ads.roku_cust_param_kids=OTT_KIDS_CONTENT&is_lat=1&bmodel=bm1&content=5fbceb7c5ced5eb097f8c35f6ab34af2&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=special&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=xumo&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="The_Roku_Channells",Fox Soul fix url
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",Hi-Yah
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",Kin
+https://8c1158f5e68442dabbcda77e1d121517.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-278-KIN-ROKU/mt/roku/278/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="The_Roku_Channells",Newsy
+https://linear-78.frequency.stream/dist/roku/78/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",NHRA TV
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=928
+#EXTINF:-1 group-title="The_Roku_Channells",Runtime Español
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218
+#EXTINF:-1 group-title="The_Roku_Channells",Tastemade
+https://tastemade-roku-us.amagi.tv/hls/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",The Design Network
+https://thedesignnetwork-tdn-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",The Design Network (Canada)
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",The Red Green show (Canada)
+https://answermedia-theredgreenshow-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="The_Roku_Channells",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
