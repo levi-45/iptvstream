@@ -61,6 +61,8 @@ https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="WKAQDT2.pr@SD",WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WLIIDT1.pr@SD",WLII-DT1 (1080p)
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WRUADT1.pr@SD",WRUA-DT1 (Tiva TV) (720p)
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 #EXTINF:-1 tvg-id="WRUADT1.pr@SD",WRUA-DT1 (Tiva TV) (720p)

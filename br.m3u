@@ -69,6 +69,8 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DemaisTV.br@SD",Demais TV (720p)
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DespertarTV.br@HD",Despertar TV (720p)
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="ElementalChannel.br@SD",Elemental Channel (1080p)
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="ElyTV.br@SD",ElyTV (360p)
@@ -119,8 +121,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PremiereClubes.br@SD",Premiere Clubes
-http://187.120.222.37:721
 #EXTINF:-1 tvg-id="PrimerTV.br@SD",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br@SD",RBATV (720p)

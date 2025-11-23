@@ -53,8 +53,6 @@ https://fl1.moveonjoy.com/CMT/index.m3u8
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World
 https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us@East",Comedy Central East (720p)
-https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us@SD",Comet
@@ -117,11 +115,7 @@ https://fl1.moveonjoy.com/FYI/index.m3u8
 https://fl1.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="",Great American Country
-https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
-#EXTINF:-1 tvg-id="Grit.us@SD",Grit
-https://fl1.moveonjoy.com/GRIT_TV/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
 https://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
 https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
@@ -265,10 +259,6 @@ https://fl1.moveonjoy.com/TSN_5/index.m3u8
 https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-id="TVOne.us@SD",TV One
 https://fl1.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="TVJ.jm@SD",TVJ (720p)
-https://fl1.moveonjoy.com/TVJ_CARIBBEAN/index.m3u8
-#EXTINF:-1 tvg-id="UpTV.us@SD",Up TV (1080p)
-https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us@East",VH1 East
@@ -277,8 +267,6 @@ https://fl1.moveonjoy.com/VH1/index.m3u8
 https://fl1.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="WNetwork.ca@East",W Network (720p)
 https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WCBSDT1.us@SD",WCBS-DT1 (720p)
-https://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="WeTV.us@East",We TV East
 https://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WFLADT1.us@SD",WFLA-DT1
@@ -293,8 +281,6 @@ https://fl1.moveonjoy.com/WGN/index.m3u8
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-id="WKCFDT1.us@SD",WKCF-DT1
 https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1
-https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WOFLDT1.us@SD",WOFL-DT1 (720p)
 https://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD",World Fishing Network

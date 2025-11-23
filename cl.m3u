@@ -41,8 +41,8 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://eu1.servers10.com:8081/8050/index.m3u8
 #EXTINF:-1 tvg-id="Canal74SanAntonio.cl@SD",Canal 74 San Antonio
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro (480p)
-http://181.188.216.5:18000/play/a09l/index.m3u8
+#EXTINF:-1 tvg-id="CanalClaro.cl@SD",Canal Claro (720p)
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?appVersion=1&deviceDNT=0&deviceId=spencer&deviceMake=safari&deviceModel=web&deviceType=web&deviceVersion=1&servertSideAds=false&sid=e3ca3088-b0b3-11f0-ab21-da2bce2249f9
 #EXTINF:-1 tvg-id="CanalISB.cl@SD",Canal ISB (Iglesia San Bernardo) (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSCN.cl@SD",Canal SCN (720p)
@@ -74,7 +74,7 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-id="Girovisual.cl@SD",Girovisual (720p)
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HiperconectadosTV.cl@SD",Hiperconectados TV
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
+https://cdn-edge1.cef-technology.com/chf-cdn/hiper_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD",Holvoet TV (Copiapó) (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HuascoTelevision.cl@SD",Huasco Television
@@ -93,6 +93,8 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl@SD",La Red (720p) [Not 24/7]
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Meganoticias.cl@SD" http-referrer="https://www.meganoticias.cl/",Meganoticias (1080p)
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 #EXTINF:-1 tvg-id="MTNATV.cl@SD",MTNA TV
 https://live.mtna.tv/hls/mtna/mtna.m3u8
 #EXTINF:-1 tvg-id="NativaTV.cl@SD",Nativa TV
@@ -195,5 +197,5 @@ https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl@SD",VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Meganoticias.cl@SD" http-referrer="https://www.meganoticias.cl/",Meganoticias (1080p)
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+#EXTINF:-1 tvg-id="Wapp.cl@SD",Wapp (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8

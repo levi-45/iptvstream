@@ -54,8 +54,6 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-id="CaciqueTV.do@HD",Cacique TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Caciquetvcloud/Caciquetvcloud/playlist.m3u8
-#EXTINF:-1 tvg-id="",Cacique TV
-https://vdo2.streamgato.us:3865/live/tvcaciqulive.m3u8
 #EXTINF:-1 tvg-id="CanaTVDigital.do@SD",Cana TV Digital (720p) [Not 24/7]
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do@SD",Canal 4 RD (1080p)
@@ -88,8 +86,8 @@ https://ss3.domint.net:3146/ctv_str/cangrejotv/playlist.m3u8
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do@SD",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="CDN.do",CDN (720p)
-http://154.88.160.2:80/CDN/index.m3u8
+#EXTINF:-1 tvg-id="CDN.do@SD",CDN (480p)
+http://38.159.227.126:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD",CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD",Cenovision HD (720p)
@@ -140,7 +138,7 @@ https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD",Delta TV Canal 50
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
-#EXTINF:-1 tvg-id="Digital15.do@SD" http-referrer="https://telemicro.com.do/players/5tv/",Digital 15 (1080p)
+#EXTINF:-1 tvg-id="Digital15.do@SD" http-referrer="https://telemicro.com.do/players/5tv/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Digital 15 (1080p)
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
@@ -225,8 +223,6 @@ https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LaHoraTV.do@HD",La Hora TV [Geo-blocked]
 https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
-#EXTINF:-1 tvg-id="",La Hora TV
-https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
 #EXTINF:-1 tvg-id="LAMIATV.do@SD",LA MIA TV (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/lamiatv/lamiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaReinaTV.do@HD",La Reina TV [Geo-blocked]
@@ -299,8 +295,6 @@ https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 https://cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-id="NotisurTV.do@HD",Notisur TV [Not 24/7]
 https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
-#EXTINF:-1 tvg-id="",Notisur TV
-https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevaVision14.do@HD",Nueva Vision 14 [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 #EXTINF:-1 tvg-id="OEPMTV.do@SD",Oepm TV (720p)
@@ -313,8 +307,6 @@ https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do@SD",Palmar TV [Not 24/7]
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
-#EXTINF:-1 tvg-id="",Palmar TV
-https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-id="PeraviaVision.do@SD",Peravia Vision (480p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
 #EXTINF:-1 tvg-id="PHTV.do@SD",PHTV (720p) [Not 24/7]
@@ -331,8 +323,6 @@ https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
 #EXTINF:-1 tvg-id="PuntaCanaTV.do@SD",Punta Cana TV (720p) [Not 24/7]
 https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
-#EXTINF:-1 tvg-id="",Punto Canal 40 (720p)
-https://ss5.domint.net:3042/ptv_str/puntotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PuntoTV.do@SD",Punto TV (720p)
 https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
 #EXTINF:-1 tvg-id="PuntoTVDigital40.do@SD",Punto TV Digital 40 [Geo-blocked]
@@ -415,7 +405,7 @@ https://rdn.essastream.com:3258/live/telecanal12live.m3u8
 https://vdo2.streamgato.us:3841/live/telecanal28tvlive.m3u8
 #EXTINF:-1 tvg-id="TeleCaribe.do@SD",TeleCaribe TV
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR=
-#EXTINF:-1 tvg-id="Telecentro.do" http-referrer="https://telemicro.com.do/players/5tv/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Telecentro (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telecentro.do@SD" http-referrer="https://telemicro.com.do/players/5tv/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Telecentro (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
@@ -435,8 +425,10 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://mlb.essastream.com:8081/telemediodigital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TelemetroTV.do@SD",Telemetro TV [Not 24/7]
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do@SD",Telemicro (480p)
-http://181.119.108.27:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do@SD" http-referrer="https://telemicro.com.do/players/5tv/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Telemicro (1080p)
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemilenio.do@SD",Telemilenio (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelenewsTV.do@SD",Telenews TV
@@ -499,7 +491,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="TRA2.do@SD",TRA 2 (576p)
 https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 #EXTINF:-1 tvg-id="TRANoticias.do@SD",TRA Noticias (576p)
-hhttps://fl1002.bozztv.com/ssh101/rctvhdtra/tracks-v1a1/mono.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJiNjExZGM0ZTJjNmUxOTFkYWRlYTg2NWY2ZjA4ODU4ZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzYzMzUwMDMzLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.iITdIQH8AFuET9T4o4IyEPRRfLOGn2z-_bctb9T1UrIR4y6TXuHoTU64nKygj8FlvWREqRTKolSfZ-MniJRm2WXDO9emwvkrklBNpJlpffSGIzeihYTCC6-bF_ZEFA-Yzp9FUY4RMTctnSI6-OjDA8-_4jBF8eo3xCucrI-BSB48kg42EqWD5UfUm7nhYZNtEWXpBE62tSxVV-B9qHYsxjAIKct_FV3HagKDXM9vMsGjtigZwnorSkDOeLYFSr4O6_g7UQgfvoVQGW2Q_Wtp0wD8PAZli27G-vAwTd3Uh1b0JAy-fhAQgXItMjnzBBfBbuZxQ3l_YolGBfaK_nLRQQ/manifest/video.m3u8
 #EXTINF:-1 tvg-id="TuMusicaHD.do@SD",Tu Música HD (1080p)
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-id="TurismoHD.do@HD",Turismo HD (720p)
@@ -528,6 +520,8 @@ https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-id="TVN24.do@SD",TVN24 (720p)
 https://ss2.tvrdomi.com:1936/vozzmedianetwork/vozzmedianetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="TVO.do@SD",TVO
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8
 #EXTINF:-1 tvg-id="TVS.do@SD",TVS (540p) [Not 24/7]
 https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-id="ValleNuevoTV.do@SD",Valle Nuevo TV (720p) [Not 24/7]

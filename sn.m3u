@@ -69,14 +69,16 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SunuLabelTV.sn@SD",Sunu Label TV (480p) [Not 24/7]
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMusikSenegal.sn@SD",TeleMusik Sénégal (720p)
-https://58c04fb1d143f.streamlock.net/rezopropartner_1/rezopropartner_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMusikSenegal.sn@SD",TeleMusik Senegal (720p)
+https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
 #EXTINF:-1 tvg-id="TempoAfricTV.us@SD",Tempo Afric TV (720p)
 https://streamspace.live/hls/tempoafrictv/livestream.m3u8
 #EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
 http://69.64.57.208/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)
 http://trn03.bozztv.com/gin-tfmtv/index.m3u8
+#EXTINF:-1 tvg-id="TFM.sn@SD",TFM
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/tfm.m3u8
 #EXTINF:-1 tvg-id="TFM.sn@SD",TFM
 https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120429/tfm/playlist.m3u8
 #EXTINF:-1 tvg-id="WalfTV.sn@SD",Walf TV (360p)
