@@ -1,99 +1,66 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 13.12.2025 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
-
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 31.01.2026 | Donate  A Cup Cafee Please: https://ko-fi.com/digiseytan 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png" group-title="TURK HD+ LINE",TRT1
 http://95.174.71.114/TR-TRT1/index.m3u8
-
 #EXTINF:-1 tvg-name="TV 8" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-
 #EXTINF:-1 tvg-name="Tabii" tvg-id="" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="Sinema",Tabii
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-
 #EXTINF:-1 tvg-name="Halk TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/halk-tv-tr.png" group-title="Haber",Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK HD+ LINE",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png" group-title="TURK HD+ LINE",SHOW TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/shturk.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="TURK HD+ LINE",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="TURK HD+ LINE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="TURK HD+ LINE",TEVE2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="TURK HD+ LINE",TV100
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="AKIT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="TURK HD+ LINE",AKIT TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="TURK HD+ LINE",BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TURK HD+ LINE",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="TURK HD+ LINE",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TGRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png" group-title="TURK HD+ LINE",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="HABERTURK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png" group-title="TURK HD+ LINE",HABERTURK
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/24-tr.png" group-title="TURK HD+ LINE",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DOST TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dost-tv-tr.png" group-title="TURK HD+ LINE",DOST TV
 https://dost.stream.emsal.im/tv/live.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="DIYANET TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="TURK HD+ LINE",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="A SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="TURK HD+ LINE",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="SPORTS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png" group-title="TURK HD+ LINE",SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA ORTAKUL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="TURK HD+ LINE",TRT EBA ORTAKUL
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT COCUK DIYANET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK HD+ LINE",TRT COCUK DIYANET
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT AVAZ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="TURK HD+ LINE",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT KURDI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="TURK HD+ LINE",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT ARABI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-arabi-tr.png" group-title="TURK HD+ LINE",TRT ARABI
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT WORLD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png" group-title="TURK HD+ LINE",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png" group-title="TURK HD+ LINE",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
@@ -301,8 +268,8 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8?tv=1
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
 #EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="https://x.canlitvapp.com/a2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Belgesel",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 Yedek="https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8" Yedek2="https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8" Yedek3="" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" group-title="Belgesel",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 Yedek="http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678" Yedek2="https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8" Yedek3="" tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAv3CFSoF-CswpDf6HEnAekqOLmQ_t002VrW-MN1iHEWFXK4XtDG_Hm6g7f8by6bBGBI&usqp=CAU" group-title="Belgesel",TRT BELGESEL
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="Belgesel",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 Yedek="https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8" Yedek2="" Yedek3="" tvg-id="TLC.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Tlc_logo_discovery.jpg" group-title="Belgesel",TLC
@@ -415,7 +382,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-id="TRTAvaz.tr" tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TGRT BELGESEL" tvg-id="TGRT.Belgesel.tr" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
-https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678
 
 
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
@@ -494,7 +461,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="Zarok TV" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/vOMV90y25YDRtvUVCbkoAvQ_5rGZsMAxQkegh-R5xQdUi0g-YRcuQno1yuw3v-CB1A=w240-h480-rw" group-title="Çocuk",Zarok TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://zindikirmancki.zaroktv.com.tr/hls/stream.m3u8
-
 #EXTINF:1 tvg-id="Zarok TV Kürtçe" tvg-logo="http://assets.tvcdn.net/15e32d50-4058-4fa6-a6e2-3e1dbc35c70c.jpeg" group-title="Çocuk",Zarok TV Kürtçe
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
@@ -807,79 +773,899 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png"  group-title="Belgesel", Davinci Learning
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
 
+https://goldvod.org/live/hpgdiscoo/123456/260.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt1_D9T.png" group-title="|TR| ULUSAL",TRT 1 HD
+https://goldvod.org/live/hpgdiscoo/123456/1.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D FHD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",KANAL D FHD
+https://goldvod.org/live/hpgdiscoo/123456/5.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="KANAL D HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/TURKIYE/KANALD.png" group-title="|TR| ULUSAL",KANAL D HD
+https://goldvod.org/live/hpgdiscoo/123456/262.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV FHD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" group-title="|TR| ULUSAL",ATV FHD
+https://goldvod.org/live/hpgdiscoo/123456/263.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/71/0916028009315eb88428_op_0_XL.webp" group-title="|TR| ULUSAL",ATV HD
+https://goldvod.org/live/hpgdiscoo/123456/2.m3u8
+#EXTINF:-1 tvg-id="STARTV.tr" tvg-name="STAR TV FHD" tvg-logo="https://hizlitv.org/kanallar/star-tv.png" group-title="|TR| ULUSAL",STAR TV FHD
+https://goldvod.org/live/hpgdiscoo/123456/151.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="STAR TV HD" tvg-logo="https://hizlitv.org/kanallar/star-tv.png" group-title="|TR| ULUSAL",STAR TV HD
+https://goldvod.org/live/hpgdiscoo/123456/264.m3u8
+#EXTINF:-1 tvg-id="now.tr" tvg-name="NOW TV FHD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png" group-title="|TR| ULUSAL",NOW TV FHD
+https://goldvod.org/live/hpgdiscoo/123456/265.m3u8
+#EXTINF:-1 tvg-id="now.tr" tvg-name="NOW TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/now_turk_3T9.png" group-title="|TR| ULUSAL",NOW TV HD
+https://goldvod.org/live/hpgdiscoo/123456/3.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV FHD (O)" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV FHD (O)
+https://goldvod.org/live/hpgdiscoo/123456/478.m3u8
+#EXTINF:-1 tvg-id="show.tr" tvg-name="SHOW TV 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV 4K
+https://goldvod.org/live/hpgdiscoo/123456/521.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV FHD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV FHD
+https://goldvod.org/live/hpgdiscoo/123456/266.m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="SHOW TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/show_tv_SpJ.png" group-title="|TR| ULUSAL",SHOW TV HD
+https://goldvod.org/live/hpgdiscoo/123456/6.m3u8
+#EXTINF:-1 tvg-id="showtürk.tr" tvg-name="SHOW TÜRK" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" group-title="|TR| ULUSAL",SHOW TÜRK
+https://goldvod.org/live/hpgdiscoo/123456/9516.m3u8
+#EXTINF:-1 tvg-id="showtürkavrupa.tr" tvg-name="SHOW TÜRK AVRUPA" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg" group-title="|TR| ULUSAL",SHOW TÜRK AVRUPA
+https://goldvod.org/live/hpgdiscoo/123456/9517.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png" group-title="|TR| ULUSAL",TV8 4K
+https://goldvod.org/live/hpgdiscoo/123456/9525.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV 8 FHD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png" group-title="|TR| ULUSAL",TV 8 FHD
+https://goldvod.org/live/hpgdiscoo/123456/267.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_Hkc.png" group-title="|TR| ULUSAL",TV 8 HD
+https://goldvod.org/live/hpgdiscoo/123456/15.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV 8 INT HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png" group-title="|TR| ULUSAL",TV 8 INT HD
+https://goldvod.org/live/hpgdiscoo/123456/268.m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TV8,5 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png" group-title="|TR| ULUSAL",TV8,5 4K
+https://goldvod.org/live/hpgdiscoo/123456/9526.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8,5 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv8_5_4or.png" group-title="|TR| ULUSAL",TV 8,5 HD
+https://goldvod.org/live/hpgdiscoo/123456/20.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TRT HABER HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_BOU.png" group-title="|TR| HABER",TRT HABER HD
+https://goldvod.org/live/hpgdiscoo/123456/279.m3u8
+#EXTINF:-1 tvg-id="TRTHABER.tr" tvg-name="TRT Haber" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_haber_BOU.png" group-title="|TR| HABER",TRT Haber
+https://goldvod.org/live/hpgdiscoo/123456/104.m3u8
+#EXTINF:-1 tvg-id="ccnturk.tr" tvg-name="4K TR: CNN TÜRK HD |D" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_qZd.png" group-title="|TR| HABER",4K TR: CNN TÜRK HD |D
+https://goldvod.org/live/hpgdiscoo/123456/501.m3u8
+#EXTINF:-1 tvg-id="cnntürk.tr" tvg-name="CNN Turk" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/cnn_turk_qZd.png" group-title="|TR| HABER",CNN Turk
+https://goldvod.org/live/hpgdiscoo/123456/109.m3u8
+#EXTINF:-1 tvg-id="habertürk.tr" tvg-name="4K TR: HABERTÜRK HD |D" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png" group-title="|TR| HABER",4K TR: HABERTÜRK HD |D
+https://goldvod.org/live/hpgdiscoo/123456/510.m3u8
+#EXTINF:-1 tvg-id="habertürk.tr" tvg-name="HABER TURK HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png" group-title="|TR| HABER",HABER TURK HD
+https://goldvod.org/live/hpgdiscoo/123456/280.m3u8
+#EXTINF:-1 tvg-id="habertürk.tr" tvg-name="HABER TURK" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_turk_sU6.png" group-title="|TR| HABER",HABER TURK
+https://goldvod.org/live/hpgdiscoo/123456/105.m3u8
+#EXTINF:-1 tvg-id="4ktrahaberhdd.tr" tvg-name="4K TR: A HABER HD |D" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png" group-title="|TR| HABER",4K TR: A HABER HD |D
+https://goldvod.org/live/hpgdiscoo/123456/490.m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="A HABER HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png" group-title="|TR| HABER",A HABER HD
+https://goldvod.org/live/hpgdiscoo/123456/281.m3u8
+#EXTINF:-1 tvg-id="AHABER.tr" tvg-name="A Haber" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_haber_YQx.png" group-title="|TR| HABER",A Haber
+https://goldvod.org/live/hpgdiscoo/123456/116.m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="NTV HD" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" group-title="|TR| HABER",NTV HD
+https://goldvod.org/live/hpgdiscoo/123456/282.m3u8
+#EXTINF:-1 tvg-id="Ntv.tr" tvg-name="NTV" tvg-logo="https://gbzottvsc25.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/36/0947520532355eb7f426_op_0_XL.webp" group-title="|TR| HABER",NTV
+https://goldvod.org/live/hpgdiscoo/123456/125.m3u8
+#EXTINF:-1 tvg-id="AKITTV.tr" tvg-name="Akit TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/akit_tv_aqU.png" group-title="|TR| HABER",Akit TV
+https://goldvod.org/live/hpgdiscoo/123456/119.m3u8
+#EXTINF:-1 tvg-id="ULUSAL KANAL.tr" tvg-name="Ulusal Kanal" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulusal_Mja.png" group-title="|TR| HABER",Ulusal Kanal
+https://goldvod.org/live/hpgdiscoo/123456/114.m3u8
+#EXTINF:-1 tvg-id="ülketv.tr" tvg-name="ÜLKE TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png" group-title="|TR| HABER",ÜLKE TV HD
+https://goldvod.org/live/hpgdiscoo/123456/284.m3u8
+#EXTINF:-1 tvg-id="ülketv.tr" tvg-name="ULKE TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png" group-title="|TR| HABER",ULKE TV
+https://goldvod.org/live/hpgdiscoo/123456/117.m3u8
+#EXTINF:-1 tvg-id="halktv.tr" tvg-name="HALK TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/halk_tv_5IU.png" group-title="|TR| HABER",HALK TV HD
+https://goldvod.org/live/hpgdiscoo/123456/285.m3u8
+#EXTINF:-1 tvg-id="HALKTV.tr" tvg-name="HALK TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/halk_tv_5IU.png" group-title="|TR| HABER",HALK TV
+https://goldvod.org/live/hpgdiscoo/123456/106.m3u8
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TV 100 HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_FRE.png" group-title="|TR| HABER",TV 100 HD
+https://goldvod.org/live/hpgdiscoo/123456/286.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv100_FRE.png" group-title="|TR| HABER",TV 100
+https://goldvod.org/live/hpgdiscoo/123456/110.m3u8
+#EXTINF:-1 tvg-id="FLASH HABER.tr" tvg-name="Flash Haber" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/flash_haber_L5U.png" group-title="|TR| HABER",Flash Haber
+https://goldvod.org/live/hpgdiscoo/123456/115.m3u8
+#EXTINF:-1 tvg-id="beinsport.tr" tvg-name="beIN Sport SD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN Sport SD
+https://goldvod.org/live/hpgdiscoo/123456/178.m3u8
+#EXTINF:-1 tvg-id="beinsport.tr" tvg-name="beIN SPORT 1 480P" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORT 1 480P
+https://goldvod.org/live/hpgdiscoo/123456/345.m3u8
+#EXTINF:-1 tvg-id="beinsport1.tr" tvg-name="beIN Sport 1 720P (O)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN Sport 1 720P (O)
+https://goldvod.org/live/hpgdiscoo/123456/180.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 720P (V)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 720P (V)
+https://goldvod.org/live/hpgdiscoo/123456/141.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 FEED (V)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 FEED (V)
+https://goldvod.org/live/hpgdiscoo/123456/142.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 8K FEED" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 8K FEED
+https://goldvod.org/live/hpgdiscoo/123456/150.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 720P FEED" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 720P FEED
+https://goldvod.org/live/hpgdiscoo/123456/149.m3u8
+#EXTINF:-1 tvg-id="diyanettv.tr" tvg-name="DİYANET TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_enZ.png" group-title="|TR| DİNİ KANALLAR",DİYANET TV HD
+https://goldvod.org/live/hpgdiscoo/123456/298.m3u8
+#EXTINF:-1 tvg-id="diyanettv.tr" tvg-name="DİYANET TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_enZ.png" group-title="|TR| DİNİ KANALLAR",DİYANET TV
+https://goldvod.org/live/hpgdiscoo/123456/184.m3u8
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="SEMERKAND TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/semerkand_tv_Kjy.png" group-title="|TR| DİNİ KANALLAR",SEMERKAND TV HD
+https://goldvod.org/live/hpgdiscoo/123456/299.m3u8
+#EXTINF:-1 tvg-id="semerkandtv.tr" tvg-name="SEMERKAND TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/semerkand_tv_Kjy.png" group-title="|TR| DİNİ KANALLAR",SEMERKAND TV
+https://goldvod.org/live/hpgdiscoo/123456/185.m3u8
+#EXTINF:-1 tvg-id="lalegütvl.tr" tvg-name="LALEGUL TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/lalegul_gcW.png" group-title="|TR| DİNİ KANALLAR",LALEGUL TV HD
+https://goldvod.org/live/hpgdiscoo/123456/300.m3u8
+#EXTINF:-1 tvg-id="lalegül.tr" tvg-name="LALEGUL TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/lalegul_gcW.png" group-title="|TR| DİNİ KANALLAR",LALEGUL TV
+https://goldvod.org/live/hpgdiscoo/123456/186.m3u8
+#EXTINF:-1 tvg-id="VAV TV.tr" tvg-name="VAV TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/vav_tv_czb.png" group-title="|TR| DİNİ KANALLAR",VAV TV
+https://goldvod.org/live/hpgdiscoo/123456/187.m3u8
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="DOST TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dost_tv_rsq.png" group-title="|TR| DİNİ KANALLAR",DOST TV HD
+https://goldvod.org/live/hpgdiscoo/123456/301.m3u8
+#EXTINF:-1 tvg-id="TELE1.tr" tvg-name="Tele 1" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tele1_tRP.png" group-title="|TR| HABER",Tele 1
+https://goldvod.org/live/hpgdiscoo/123456/107.m3u8
+#EXTINF:-1 tvg-id="4ktrbloomberghthdd.tr" tvg-name="4K TR: BLOOMBERG HT HD |D" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bloomberg_ht_21c.png" group-title="|TR| HABER",4K TR: BLOOMBERG HT HD |D
+https://goldvod.org/live/hpgdiscoo/123456/498.m3u8
+#EXTINF:-1 tvg-id="TGRT HABER.tr" tvg-name="TGRT Haber" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tgrt_haber_AuN.png" group-title="|TR| HABER",TGRT Haber
+https://goldvod.org/live/hpgdiscoo/123456/111.m3u8
+#EXTINF:-1 tvg-id="sözcütv.tr" tvg-name="SÖZCÜ TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png" group-title="|TR| HABER",SÖZCÜ TV HD
+https://goldvod.org/live/hpgdiscoo/123456/287.m3u8
+#EXTINF:-1 tvg-id="sözcütv.tr" tvg-name="SÖZCÜ TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/sozcu_tv_KPX.png" group-title="|TR| HABER",SÖZCÜ TV
+https://goldvod.org/live/hpgdiscoo/123456/108.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/24_tv_fxJ.png" group-title="|TR| HABER",24 TV
+https://goldvod.org/live/hpgdiscoo/123456/112.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_global_eId.png" group-title="|TR| HABER",HABER GLOBAL HD
+https://goldvod.org/live/hpgdiscoo/123456/288.m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="HABER GLOBAL" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/haber_global_eId.png" group-title="|TR| HABER",HABER GLOBAL
+https://goldvod.org/live/hpgdiscoo/123456/113.m3u8
+#EXTINF:-1 tvg-name="A Para" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a_para_7gG.png" group-title="|TR| HABER",A Para
+https://goldvod.org/live/hpgdiscoo/123456/131.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.tr" tvg-name="Bloomberg HT" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bloomberg_ht_21c.png" group-title="|TR| HABER",Bloomberg HT
+https://goldvod.org/live/hpgdiscoo/123456/129.m3u8
+#EXTINF:-1 tvg-id="ekotürk.tr" tvg-name="EKOTURK TB" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ekoturk_MgG.png" group-title="|TR| HABER",EKOTURK TB
+https://goldvod.org/live/hpgdiscoo/123456/289.m3u8
+#EXTINF:-1 tvg-id="ekotürk.tr" tvg-name="EKOTURK TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ekoturk_MgG.png" group-title="|TR| HABER",EKOTURK TV
+https://goldvod.org/live/hpgdiscoo/123456/130.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tvnet_uFd.png" group-title="|TR| HABER",TVNET HD
+https://goldvod.org/live/hpgdiscoo/123456/290.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tvnet_uFd.png" group-title="|TR| HABER",TVNET
+https://goldvod.org/live/hpgdiscoo/123456/118.m3u8
+#EXTINF:-1 tvg-id="4ktrbeyaztvhdd.tr" tvg-name="BEYAZ TV 4K" tvg-logo="https://m.beyaztv.com.tr/images/logo.png" group-title="|TR| ULUSAL",BEYAZ TV 4K
+https://goldvod.org/live/hpgdiscoo/123456/497.m3u8
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="Beyaz TV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="|TR| ULUSAL",Beyaz TV
+https://goldvod.org/live/hpgdiscoo/123456/4.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="KANAL 7 4K" tvg-logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7/v2/images/kanal7-logo.svg" group-title="|TR| ULUSAL",KANAL 7 4K
+https://goldvod.org/live/hpgdiscoo/123456/512.m3u8
+#EXTINF:-1 tvg-id="KANAL7AVRUPA.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kanal7_avrupa_BCa.png" group-title="|TR| ULUSAL",Kanal 7 Avrupa
+https://goldvod.org/live/hpgdiscoo/123456/7.m3u8
+#EXTINF:-1 tvg-id="EUROD.tr" tvg-name="Euro D" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/euro_d_Wgf.png" group-title="|TR| ULUSAL",Euro D
+https://goldvod.org/live/hpgdiscoo/123456/14.m3u8
+#EXTINF:-1 tvg-name="EuroStar" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/euro_star_uyanik_76p.png" group-title="|TR| ULUSAL",EuroStar
+https://goldvod.org/live/hpgdiscoo/123456/16.m3u8
+#EXTINF:-1 tvg-id="a2.tr" tvg-name="A2 4K" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a2_tv_e5s.png" group-title="|TR| ULUSAL",A2 4K
+https://goldvod.org/live/hpgdiscoo/123456/492.m3u8
+#EXTINF:-1 tvg-id="A2.tr" tvg-name="A2 TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/a2_tv_e5s.png" group-title="|TR| ULUSAL",A2 TV
+https://goldvod.org/live/hpgdiscoo/123456/21.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE2 4K" tvg-logo="https://static.teve2.com.tr/assets/img/teve2logo.png?v=1" group-title="|TR| ULUSAL",TEVE2 4K
+https://goldvod.org/live/hpgdiscoo/123456/9519.m3u8
+#EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-name="Teve2" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/teve2_jdi.png" group-title="|TR| ULUSAL",Teve2
+https://goldvod.org/live/hpgdiscoo/123456/19.m3u8
+#EXTINF:-1 tvg-id="trtkurdi.tr" tvg-name="TRT Kurdi" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_kurdi_jaf.png" group-title="|TR| ULUSAL",TRT Kurdi
+https://goldvod.org/live/hpgdiscoo/123456/41.m3u8
+#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-name="TRT Avaz" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_avaz_uiX.png" group-title="|TR| ULUSAL",TRT Avaz
+https://goldvod.org/live/hpgdiscoo/123456/42.m3u8
+#EXTINF:-1 tvg-id="trttürk.tr" tvg-name="TRT Turk" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_turk_4mH.png" group-title="|TR| ULUSAL",TRT Turk
+https://goldvod.org/live/hpgdiscoo/123456/43.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 HD
+https://goldvod.org/live/hpgdiscoo/123456/148.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TURKEY" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 HD TURKEY
+https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 H265" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 H265
+https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 + D (V)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="|TR| SPOR",beIN SPORTS 1 + D (V)
+https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
+#EXTINF:-1 tvg-id="CNBCE.tr" tvg-name="CNBC-E" tvg-logo="https://cdn-tr.tivimivi.com/images//channels/1724096135976_CNBC-E.jpg" group-title="|TR| HABER",CNBC-E
+https://goldvod.org/live/hpgdiscoo/123456/153.m3u8
+#EXTINF:-1 tvg-id="bengütürk.tv" tvg-name="BENGÜ TÜRK TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bengu_turk_zYp.png" group-title="|TR| HABER",BENGÜ TÜRK TV HD
+https://goldvod.org/live/hpgdiscoo/123456/291.m3u8
+#EXTINF:-1 tvg-id="bengütürk.tr" tvg-name="BENGÜ TÜRK TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/bengu_turk_zYp.png" group-title="|TR| HABER",BENGÜ TÜRK TV
+https://goldvod.org/live/hpgdiscoo/123456/216.m3u8
+#EXTINF:-1 tvg-id="GZT TV.tr" tvg-name="GZT TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/gzttv.png" group-title="|TR| HABER",GZT TV
+https://goldvod.org/live/hpgdiscoo/123456/217.m3u8
+#EXTINF:-1 tvg-id="gztht.tr" tvg-name="GZT HT" tvg-logo="https://cdn-tr.tivimivi.com/images//channels/1760745834996_images.png" group-title="|TR| HABER",GZT HT
+https://goldvod.org/live/hpgdiscoo/123456/218.m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/krt_tv_7YR.png" group-title="|TR| HABER",KRT TV HD
+https://goldvod.org/live/hpgdiscoo/123456/292.m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="KRT TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/krt_tv_7YR.png" group-title="|TR| HABER",KRT TV
+https://goldvod.org/live/hpgdiscoo/123456/220.m3u8
+#EXTINF:-1 tvg-id="ekol.tr" tvg-name="EKOL TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ekol_tv_Fms.png" group-title="|TR| HABER",EKOL TV HD
+https://goldvod.org/live/hpgdiscoo/123456/293.m3u8
+#EXTINF:-1 tvg-id="dosttv.tr" tvg-name="DOST TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/dost_tv_rsq.png" group-title="|TR| DİNİ KANALLAR",DOST TV
+https://goldvod.org/live/hpgdiscoo/123456/188.m3u8
+#EXTINF:-1 tvg-id="TV5.tr" tvg-name="TV5" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/tv_5_QtK.png" group-title="|TR| DİNİ KANALLAR",TV5
+https://goldvod.org/live/hpgdiscoo/123456/189.m3u8
+#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="Meltem TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/meltem.png" group-title="|TR| DİNİ KANALLAR",Meltem TV
+https://goldvod.org/live/hpgdiscoo/123456/190.m3u8
+#EXTINF:-1 tvg-id="kabetv.tr" tvg-name="KabeTV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/kabe_tv_PVy.png" group-title="|TR| DİNİ KANALLAR",KabeTV
+https://goldvod.org/live/hpgdiscoo/123456/191.m3u8
+
 #EXTINF:-1 tvg-name="XXX: Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Gold HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
 #EXTINF:-1 tvg-name="XXX: Penthouse Reality TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Reality TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
 #EXTINF:-1 tvg-name="XXX: Babes TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Babes TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994
 #EXTINF:-1 tvg-name="XXX: BangU" group-title="MALUM YAYINLAR EROTiK",XXX: BangU
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995
 #EXTINF:-1 tvg-name="XXX: Barely Legal" group-title="MALUM YAYINLAR EROTiK",XXX: Barely Legal
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48996
 #EXTINF:-1 tvg-name="XXX: Blue Hustler" group-title="MALUM YAYINLAR EROTiK",XXX: Blue Hustler
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997
 #EXTINF:-1 tvg-name="PXXX: Brazzers TV" group-title="MALUM YAYINLAR EROTiK",XXX: Brazzers TV
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998
 #EXTINF:-1 tvg-name="XXX: Dorcel TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Dorcel TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999
 #EXTINF:-1 tvg-name="XXX: Erox HD" group-title="MALUM YAYINLAR EROTiK",XXX: Erox HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001
 #EXTINF:-1 tvg-name="XXX: Eroxxx HD" group-title="MALUM YAYINLAR EROTiK",XXX: Eroxxx HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002
 #EXTINF:-1 tvg-name="XXX: Evil Angel HD" group-title="MALUM YAYINLAR EROTiK",XXX: Evil Angel HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003
 #EXTINF:-1 tvg-name="XXX: Extasy" group-title="MALUM YAYINLAR EROTiK",XXX: Extasy
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004
 #EXTINF:-1 tvg-name="XXX: Fantazzy TV" group-title="MALUM YAYINLAR EROTiK",XXX: Fantazzy TV
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005
 #EXTINF:-1 tvg-name="XXX: Hustler" group-title="MALUM YAYINLAR EROTiK",XXX: Hustler
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006
 #EXTINF:-1 tvg-name="XXX: Hustler HD" group-title="MALUM YAYINLAR EROTiK",XXX: Hustler HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007
 #EXTINF:-1 tvg-name="XXX: Playboy TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Playboy TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008
 #EXTINF:-1 tvg-name="XXX: Pure Babes" group-title="MALUM YAYINLAR EROTiK",XXX: Private TV HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009
 #EXTINF:-1 tvg-name="Penthouse Gold HD" group-title="MALUM YAYINLAR EROTiK",XXX: Pure Babes
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010
 #EXTINF:-1 tvg-name="XXX: Reality Kings" group-title="MALUM YAYINLAR EROTiK",XXX: Reality Kings
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011
 #EXTINF:-1 tvg-name="XXX: Redlight HD" group-title="MALUM YAYINLAR EROTiK",XXX: Redlight HD
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012
-#EXTINF:-1 tvg-name="XXX: Vivid Red HD" group-title="MALUM YAYINLAR EROTiK",XXX: Vivid Red HD
-#EXTVLCOPT:network-caching=1000
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013
 #EXTINF:-1 tvg-name="XXX: Super One" group-title="MALUM YAYINLAR EROTiK",XXX: Super One
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014
 #EXTINF:-1 tvg-name="XXX: XY plus" group-title="MALUM YAYINLAR EROTiK",XXX: XY plus
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015
 #EXTINF:-1 tvg-name="XXX: XY max" group-title="MALUM YAYINLAR EROTiK",XXX: XY max
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
 #EXTINF:-1 tvg-name="XXX: XY mix" group-title="MALUM YAYINLAR EROTiK",XXX: XY mix
-#EXTVLCOPT:network-caching=1000
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
+#EXTINF:-1 tvg-name="XXX: EROTIEK 2" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10351
+#EXTINF:-1 tvg-name="XXX: EROTIEK 3" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10350
+#EXTINF:-1 tvg-name="XXX: EROTIEK 4" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10349
+#EXTINF:-1 tvg-name="XXX: EROTIEK 5" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10348
+#EXTINF:-1 tvg-name="XXX: EROTIEK 8" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 8
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10345
+#EXTINF:-1 tvg-name="XXX: EROTIEK 9" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 9
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10344
+#EXTINF:-1 tvg-name="XXX: EROTIEK 10" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 10
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10343
+#EXTINF:-1 tvg-name="XXX: EROTIEK 11" group-title="MALUM YAYINLAR EROTiK",XXX:EROTIEK 11
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10342
+#EXTINF:-1 tvg-name="XXX: EROTIEK 12" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 12
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10341
+#EXTINF:-1 tvg-name="XXX: EROTIEK 13" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 13
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10340
+#EXTINF:-1 tvg-name="XXX: EROTIEK 14" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 14
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10339
+#EXTINF:-1 tvg-name="XXX: EROTIEK 15" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 15
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10338
+#EXTINF:-1 tvg-name="XXX: EROTIEK 18" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 18
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42178
+#EXTINF:-1 tvg-name="XXX: EROTIEK 19" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 19
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42179
+#EXTINF:-1 tvg-name="XXX: EROTIEK 20" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 20
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42180
+##EXTINF:-1 tvg-name="XXX: EROTIEK 22" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 22
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42182
+#EXTINF:-1 tvg-name="XXX: EROTIEK 25" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 25
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42185
+#EXTINF:-1 tvg-name="XXX: EROTIEK 26" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 26
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42186
+#EXTINF:-1 tvg-name="XXX: EROTIEK 28" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 28
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42188
+#EXTINF:-1 tvg-name="XXX: EROTIEK 29" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 29
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42189
+#EXTINF:-1 tvg-name="XXX: EROTIEK 32" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 32
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42192
+#EXTINF:-1 tvg-name="XXX: EROTIEK 33" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 33
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42193
+#EXTINF:-1 tvg-name="XXX: EROTIEK 36" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 36
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42196
+#EXTINF:-1 tvg-name="XXX: EROTIEK 39" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 39
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42199
+#EXTINF:-1 tvg-name="XXX: EROTIEK 42" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 42
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42202
+#EXTINF:-1 tvg-name="XXX: EROTIEK 43" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 43
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42203
+#EXTINF:-1 tvg-name="XXX: EROTIEK 45" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 45
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42205
+#EXTINF:-1 tvg-name="XXX: EROTIEK 46" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 46
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42206
+#EXTINF:-1 tvg-name="XXX: EROTIEK 47" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 47
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42207
+#EXTINF:-1 tvg-name="XXX: EROTIEK 48" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 48
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42208
+#EXTINF:-1 tvg-name="XXX: EROTIEK 49" group-title="MALUM YAYINLAR EROTiK",XXX: EROTIEK 49
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/42209
+
+#EXTINF:0,TR: TRT 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/623
+#EXTINF:0,TR: TRT 1 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/622
+#EXTINF:0,TR: ATV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/621
+#EXTINF:0,TR: ATV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/620
+#EXTINF:0,TR: SHOWTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/619
+#EXTINF:0,TR: SHOWTV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/618
+#EXTINF:0,TR: STAR TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/617
+#EXTINF:0,TR: STAR TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/616
+#EXTINF:0,TR: KANAL D HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/615
+#EXTINF:0,TR: KANAL D SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/614
+#EXTINF:0,TR: FOX TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/613
+#EXTINF:0,TR: FOX TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/612
+#EXTINF:0,TR: TV8 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/611
+#EXTINF:0,TR: TV8 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/610
+#EXTINF:0,TR: TV 8.5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/693
+#EXTINF:0,TR: TV 8.5 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115191
+#EXTINF:0,TR: KANAL 7 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/609
+#EXTINF:0,TR: KANAL 7 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/608
+#EXTINF:0,TR: BEYAZ TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/607
+#EXTINF:0,TR: BEYAZ TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/606
+#EXTINF:0,TR: A2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/695
+#EXTINF:0,TR: A2 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115186
+#EXTINF:0,TR: TRT2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16240
+#EXTINF:0,TR: SHOW TURK
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/20798
+#EXTINF:0,TR: SHOW MAX HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/20799
+#EXTINF:0,TR: TRT TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115149
+#EXTINF:0,TR: TRT KURDI HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115152
+#EXTINF:0,TR: TRT ARABI HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115150
+#EXTINF:0,TR: TRT AVAZ HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115151
+#EXTINF:0,TR: TV4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115141
+#EXTINF:0,TR: ULUSAL KANAL HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115148
+#EXTINF:0,- - - - - TURKIYE HABER - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/625
+#EXTINF:0,TR: A HABER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/3106
+#EXTINF:0,TR: A HABER SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115194
+#EXTINF:0,TR: TELE 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/649
+#EXTINF:0,TR: TELE 1 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115198
+#EXTINF:0,TR: TV NET
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/647
+#EXTINF:0,TR: TV NET HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115202
+#EXTINF:0,TR: NTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/646
+#EXTINF:0,TR: NTV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115193
+#EXTINF:0,TR: HALK TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/644
+#EXTINF:0,TR: HALK TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115197
+#EXTINF:0,TR: ULKE TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/641
+#EXTINF:0,TR: ULKE TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115200
+#EXTINF:0,TR: CNN TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/634
+#EXTINF:0,TR: CNN TURK SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6028
+#EXTINF:0,TR: TRT HABER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/632
+#EXTINF:0,TR: TRT HABER SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115195
+#EXTINF:0,TR: TGRT HABER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/629
+#EXTINF:0,TR: TGRT HABER SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115201
+#EXTINF:0,TR: HABERTURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/628
+#EXTINF:0,TR: HABERTURK SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6297
+#EXTINF:0,TR: FLASH HABER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115133
+#EXTINF:0,TR: TV 100 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115189
+#EXTINF:0,TR: TV 24 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115137
+#EXTINF:0,TR: Kanal 24 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115196
+#EXTINF:0,TR: BLOOMBERG HT HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/626
+#EXTINF:0,TR: KANAL 24 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/636
+#EXTINF:0,TR: HABER GLOBAL HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115139
+#EXTINF:0,TR: HABER GLOBAL SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115199
+#EXTINF:0,TR: KANAL 33 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115140
+#EXTINF:0,TR: KRT HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115154
+#EXTINF:0,TR: TRT WORLD HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115156
+#EXTINF:0,TR: ON6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115157
+#EXTINF:0,TR: KANAL V HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115158
+#EXTINF:0,- - - - - TURKIYE SINEMA - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/739
+#EXTINF:0,TR: SINEMA TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115119
+#EXTINF:0,TR: SINEMA TV AKSIYON HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115121
+#EXTINF:0,TR: SINEMA AKSIYON 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115122
+#EXTINF:0,TR: SINEMA KOMEDI HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115123
+#EXTINF:0,TR: SINEMA AILE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115124
+#EXTINF:0,TR: SINEMA AILE 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115125
+#EXTINF:0,TR: SINEMA 1001 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115126
+#EXTINF:0,TR: SINEMA 1002 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115127
+#EXTINF:0,TR: SINEMA YERLI HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115128
+#EXTINF:0,TR: SINEMA YERLI 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115129
+#EXTINF:0,TR: BEiN BOX OFF
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10625
+#EXTINF:0,TR: BEiN BOX OFF
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10626
+#EXTINF:0,TR: BEiN BOX OFF
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10627
+#EXTINF:0,TR: beIN MOVIES STARS HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10619
+#EXTINF:0,TR: beIN MOVIES ACTION HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10621
+#EXTINF:0,TR: beIN MOVIES PREMIERE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10623
+#EXTINF:0,TR: beIN MOVIES TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10624
+#EXTINF:0,TR: BEIN  GURME  HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/5963
+#EXTINF:0,TR: beIN MOVIES FAMILY HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10618
+#EXTINF:0,TR: MOVIE SMART CLASSIC HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10603
+#EXTINF:0,TR: MOVIE SMART TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10612
+#EXTINF:0,TR: DIZI SMART PREMIUM HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/10613
+#EXTINF:0,TR: DIZI SMART MAX FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111413
+#EXTINF:0,TR: DIZI SMART FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111414
+#EXTINF:0,TR: 360 TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/9885
+#EXTINF:0,TR: 360 TV SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115187
+#EXTINF:0,TR: ON4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14579
+#EXTINF:0,TR: FX HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115130
+#EXTINF:0,TR: TEVE 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115131
+#EXTINF:0,- - - - - TURKIYE BELGESEL - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/685
+#EXTINF:0,TR: NAT GEO WILD HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/670
+#EXTINF:0,TR: NAT GEO WILD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/49578
+#EXTINF:0,TR: NAT GEO HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115164
+#EXTINF:0,TR: TLC
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/684
+#EXTINF:0,TR: YABAN TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/680
+#EXTINF:0,TR: TRT BELGESEL HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/678
+#EXTINF:0,TR: DISCOVERY HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/667
+#EXTINF:0,TR: KARADENIZ
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/70513
+#EXTINF:0,TR: DMAX HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115134
+#EXTINF:0,TR: GENC TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115143
+#EXTINF:0,TR: TARIM TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115161
+#EXTINF:0,TR: VIASAT EXPLORE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115162
+#EXTINF:0,TR: VIASAT HISTORY HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115163
+#EXTINF:0,TR: LOVE NATURE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115165
+#EXTINF:0,TR: CARTOON NETWORK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115167
+#EXTINF:0,TR: TARIM TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115169
+#EXTINF:0,TR: CIFTCI TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115170
+#EXTINF:0,TR: TLC SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115188
+#EXTINF:0,TR: DMAX SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115192
+#EXTINF:0,TR: TRT BELGESEL SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115203
+#EXTINF:0,- - - - - TURKIYE COCUK - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/738
+#EXTINF:0,TR: NICKELODEON
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/730
+#EXTINF:0,TR: NICK JR
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/737
+#EXTINF:0,TR: DISNEY JUNIOR
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/732
+#EXTINF:0,TR: MINIKA COCUK
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/731
+#EXTINF:0,TR: MINIKA GO
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/735
+#EXTINF:0,TR: BABYF
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/729
+#EXTINF:0,TR: TRT COCUK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/9368
+#EXTINF:0,TR: BABY TV
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/736
+#EXTINF:0,- - - - - TURKIYE DINI - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/665
+#EXTINF:0,TR: SEMERKAND TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6192
+#EXTINF:0,TR: KONTV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115146
+#EXTINF:0,TR: DIYANET TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115171
+#EXTINF:0,TR: MELTEM TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115172
+#EXTINF:0,- - - - - TURKIYE SPOR - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/725
+#EXTINF:0,TR: EXXEN SPORT 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67559
+#EXTINF:0,TR: EXXEN SPORT 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67560
+#EXTINF:0,TR: EXXEN SPORT 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67561
+#EXTINF:0,TR: EXXEN SPORT 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81358
+#EXTINF:0,TR: EXXEN SPORT 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81359
+#EXTINF:0,TR: TIVIBU SPOR 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/709
+#EXTINF:0,TR: TIVIBU SPOR 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/708
+#EXTINF:0,TR: TIVIBU SPOR 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/707
+#EXTINF:0,TR: S SPORT 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/700
+#EXTINF:0,TR: S SPORT 1 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115206
+#EXTINF:0,TR: S SPORT 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81289
+#EXTINF:0,TR: S SPORT 2 SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115207
+#EXTINF:0,TR: TRT SPOR HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/697
+#EXTINF:0,TR: TRT SPOR SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115204
+#EXTINF:0,TR: A SPOR HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/692
+#EXTINF:0,TR: A SPOR SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6296
+#EXTINF:0,TR: SPORTS TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/696
+#EXTINF:0,TR: SMARTSPORT 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111409
+#EXTINF:0,TR: SMARTSPORT 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111410
+#EXTINF:0,TR: SMARTSPORT 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111411
+#EXTINF:0,TR: SMARTSPORT 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111412
+#EXTINF:0,TR: FB TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/690
+#EXTINF:0,TR: GS TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/689
+#EXTINF:0,TR: NBA TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/687
+#EXTINF:0,TR: TRT 3 SPOR HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115160
+#EXTINF:0,TR: TRT SPOR YILDIZ HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16955
+#EXTINF:0,TR: TRT SPOR YILDIZ SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115205
+#EXTINF:0,TR: EUROSPORT 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19181
+#EXTINF:0,TR: EUROSPORT 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/19182
+#EXTINF:0,TR: KANAL 26 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115142
+#EXTINF:0,= = = = = VIP LOCAL BEINSPORTS = = = = =
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115575
+#EXTINF:0,- - - - - TURKIYE  BEINSPORT - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/5913
+#EXTINF:0,TR: BEIN SPORTS 4K (REAL 4K)
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14795
+#EXTINF:0,TR: BE
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115033
+#EXTINF:0,TR: BEINSPORTS 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111898
+#EXTINF:0,TR: BEINSPORTS 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111900
+#EXTINF:0,TR: BEINSPORTS 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111901
+#EXTINF:0,TR: BEINSPORTS 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111902
+#EXTINF:0,TR: BEINSPORTS 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111903
+#EXTINF:0,TR: BEINSPORTS 4 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111904
+#EXTINF:0,TR: BEINSPORTS 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111905
+#EXTINF:0,TR: BEINSPORTS 5 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111906
+#EXTINF:0,TR: BEINSPORTS 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111907
+#EXTINF:0,TR: BEINSPORTS MAX 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111908
+#EXTINF:0,TR: BEINSPORTS MAX 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111909
+#EXTINF:0,TR: BEINSPORTS MAX 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111910
+#EXTINF:0,TR: BEINSPORTS MAX 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111911
+#EXTINF:0,TR: BEiN SPORT HABER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+#EXTINF:0,- - - - - TURKIYE MUZIK - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6023
+#EXTINF:0,TR: KRAL TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/786
+#EXTINF:0,TR: POWER HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/783
+#EXTINF:0,TR: POWERTURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/781
+#EXTINF:0,TR: DREAM TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/780
+#EXTINF:0,TR: DREAM TURK SD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/23270
+#EXTINF:0,TR: TRT MUZIK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/9887
+#EXTINF:0,TR: SOMINE PLUS
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115147
+#EXTINF:0,TR: NR1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115176
+#EXTINF:0,TR: NR1 TURK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115177
+#EXTINF:0,TR: NR1 ASK HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115178
+#EXTINF:0,TR: NR1 DAMAR HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115179
+#EXTINF:0,TR: NR1 DANCE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/115180
+#EXTINF:0,EVENT: RICO VS LEVI
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/81286
+#EXTINF:0,- - - - - NEDERLAND ALGEMEEN - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2811
+#EXTINF:0,NL: NPO 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14859
+#EXTINF:0,NL: NPO 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14860
+#EXTINF:0,NL: NPO 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14857
+#EXTINF:0,NL: NPO 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14858
+#EXTINF:0,NL: NPO 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14855
+#EXTINF:0,NL: NPO 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14856
+#EXTINF:0,NL: RTL 4 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14853
+#EXTINF:0,NL: RTL 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14854
+#EXTINF:0,NL: RTL 5 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14851
+#EXTINF:0,NL: RTL 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14852
+#EXTINF:0,NL: SBS 6 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14849
+#EXTINF:0,NL: SBS 6 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14850
+#EXTINF:0,NL: RTL 7 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14847
+#EXTINF:0,NL: RTL 7 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14848
+#EXTINF:0,NL: RTL 8 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14845
+#EXTINF:0,NL: RTL 8 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14846
+#EXTINF:0,NL: SBS 9 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14841
+#EXTINF:0,NL: SBS 9 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14842
+#EXTINF:0,NL: NET 5 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14839
+#EXTINF:0,NL: NET 5 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14840
+#EXTINF:0,NL: VERONICA/DISNEYXD FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14843
+#EXTINF:0,NL: VERONICA/DISNEYXD HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14844
+#EXTINF:0,NL: RTL Z FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14837
+#EXTINF:0,NL: NPO 1 Extra HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14833
+#EXTINF:0,NL: NPO Nieuws HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14830
+#EXTINF:0,NL: NPO POLITIEK
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/24768
+#EXTINF:0,NL: Omroep Brabant FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14829
+#EXTINF:0,- - - - - NEDERLAND OVERIGE - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2816
+#EXTINF:0,NL: 24 Kitchen HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14937
+#EXTINF:0,NL: XITE HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14933
+#EXTINF:0,NL: Slam HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14927
+#EXTINF:0,NL: MTV FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14925
+#EXTINF:0,NL: MTV HITS HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14924
+#EXTINF:0,NL: 192TV
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16241
+#EXTINF:0,NL: RTL CRIME
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16242
+#EXTINF:0,NL: FOX HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16256
+#EXTINF:0,NL: ONS
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16257
+#EXTINF:0,NL: E! ENTERTAINMENT HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16259
+#EXTINF:0,NL: RTL CRIME FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/64609
+#EXTINF:0,NL: 100% NL
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/72548
+#EXTINF:0,- - - - - NEDERLAND KINDEREN - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2812
+#EXTINF:0,NL: Baby TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14948
+#EXTINF:0,NL: Disney Channel FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14945
+#EXTINF:0,NL: RTL Telekids HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14943
+#EXTINF:0,NL: Nick Junior HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14942
+#EXTINF:0,NL: Nick Toons HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14941
+#EXTINF:0,NL: Nickelodeon FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14940
+#EXTINF:0,- - - - - NEDERLAND DOCU - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2814
+#EXTINF:0,NL: National Geographic FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14884
+#EXTINF:0,NL: National Geographic HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14885
+#EXTINF:0,NL: National Geographic Wild HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14883
+#EXTINF:0,NL: Discovery ID FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14880
+#EXTINF:0,NL: Discovery Channel FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14879
+#EXTINF:0,NL: Discovery Science FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14878
+#EXTINF:0,NL: Comedy Central HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14862
+#EXTINF:0,NL: Animal Planet HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14873
+#EXTINF:0,NL: BBC FIRST FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14864
+#EXTINF:0,NL: Boomerang HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14946
+#EXTINF:0,NL: History HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14886
+#EXTINF:0,NL: Love Nature HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14874
+#EXTINF:0,NL: OUT TV HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14865
+#EXTINF:0,NL: SPIKE FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14870
+#EXTINF:0,NL: TLC FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14868
+#EXTINF:0,NL: CRIME & INVESTIGATION
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/16258
+#EXTINF:0,NL: Cartoon Network
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/22670
+#EXTINF:0,NL: Animal planet
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/22671
+#EXTINF:0,NL: ID BACKUP
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/66954
+#EXTINF:0,NL: DISCOVERY WORLD BACKUP
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/67563
+#EXTINF:0,- - - - - NEDERLAND CINEMA - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2813
+#EXTINF:0,NL: Film1 Premiere FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14894
+#EXTINF:0,NL: Film1 Premiere HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14895
+#EXTINF:0,NL: Film1 Family FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14888
+#EXTINF:0,NL: Film1 Family HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14889
+#EXTINF:0,NL: Film1 Drama FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14890
+#EXTINF:0,NL: Film1 Drama HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14891
+#EXTINF:0,NL: Film1 Action FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14892
+#EXTINF:0,NL: Film1 Action HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14893
+#EXTINF:0,- - - - - NEDERLAND SPORT - - - - -
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/2815
+#EXTINF:0,NL: ESPN 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14919
+#EXTINF:0,NL: ESPN 1 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
+#EXTINF:0,NL: ESPN 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14917
+#EXTINF:0,NL: ESPN 2 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14918
+#EXTINF:0,NL: ESPN 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14915
+#EXTINF:0,NL: ESPN 3 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14916
+#EXTINF:0,NL: ESPN 4 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14913
+#EXTINF:0,NL: ESPN 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14914
+#EXTINF:0,NL: Ziggo Sport 3 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14905
+#EXTINF:0,NL: Ziggo Sport 4 HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14906
+#EXTINF:0,NL: Ziggo Sport Select FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14907
+#EXTINF:0,NL: Ziggo Sport Select HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14908
+#EXTINF:0,NL: Ziggo Sport 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14903
+#EXTINF:0,NL: ZIGGO SPORT RACING HD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14904
+#EXTINF:0,NL: Ziggo Sport 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14902
+#EXTINF:0,NL: ZIGGO GOLF HD BACKUP
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/24587
+#EXTINF:0,NL: Eurosport 1 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14898
+#EXTINF:0,NL: Eurosport 2 FHD
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14897
+
+
 

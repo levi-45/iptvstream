@@ -155,6 +155,8 @@ https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
 https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="iTVUrbanMusic.ca@HD",iTV Urban Music
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork.ca@SD",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 tvg-id="LCN.ca@SD",LCN [Geo-blocked]
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofBritishColumbia.ca@SD",Legislative Assembly of British Columbia
@@ -277,10 +279,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvctklive.m3u
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca@SD",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TSN1.ca@SD",TSN1 (1080p)
-https://fl1.moveonjoy.com/TSN_1/mpegts
-#EXTINF:-1 tvg-id="TSN4.ca@SD",TSN4 (1080p)
-https://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca@SD",TV 16 Toronto (720p) [Not 24/7]
@@ -295,6 +293,8 @@ https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="WCGtv.ca@SD",WCGtv Public (720p)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD",Zee TV Canada (1080p)
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTVCanada.ca@SD",Zee TV Canada (480p)
 #EXTVLCOPT:http-referrer=https://oxolive.com/
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
