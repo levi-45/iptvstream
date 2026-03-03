@@ -5,16 +5,14 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD",Arirang
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 tvg-id="ETV.ru@SD",E
-https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+#EXTINF:-1 tvg-id="FonMusic.ru@SD",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru@SD",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian",RTД
 https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="Arkhyz24.ru@SD",Архыз 24 (1080p)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="Astrahan24.ru@SD",Астрахань 24
-https://astrakhan24.bonus-tv.ru/cdn/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="BelRos.ru@SD",БелРос (576p)
 https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru@SD",БСТ (Башкирское спутниковое телевидение) (576p)
@@ -49,10 +47,6 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="SvoyoTV.ru@SD",Своё ТВ (Ставрополь)
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD",Север (Нарьян-Мар) (1080p)
-https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:-1 tvg-id="Sever.ru@SD",Север (Нарьян-Мар) (1080p)
-https://live.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-id="StartTriumf.ru@SD",СТАРТ Триумф
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD",Страна ФМ
@@ -63,8 +57,6 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru@SD",ТНВ-Планета (Казань)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTMusic.ru@SD",ТНТ MUSIC
-https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru@SD",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShayanTV.ru@SD",Шаян ТВ (Татарстан)

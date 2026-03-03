@@ -23,13 +23,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544
 #EXTINF:-1 tvg-id="",El Talisman
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
-#EXTINF:-1 tvg-id="FlouCine.us@SD",Flou Cine
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Flow Caribe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-id="",Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 tvg-id="",ITV Deportes
+#EXTINF:-1 tvg-id="ITVDeportes.mx@SD",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="",Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
