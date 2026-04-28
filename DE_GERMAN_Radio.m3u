@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/4/1550071304.jpg",(((EBM Radio))) - 192 kbit/s
+http://87.106.138.241:7000/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/0/1555254610.jpg",: Ibiza Global Radio : - 128 kbit/s
+http://ibizaglobalradio.streaming-pro.com:8024/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",50s
+https://0n-50s.radionetz.de/0n-50s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",60s
+https://0n-60s.radionetz.de/0n-60s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",70s
+https://0n-70s.radionetz.de/0n-70s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",80s
+https://0n-80s.radionetz.de/0n-80s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",90s
+https://0n-90s.radionetz.de/0n-90s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",2000s
+https://0n-2000s.radionetz.de/0n-2000s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",2010s
+https://0n-2010s.radionetz.de/0n-2010s.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/9895.jpg",Antenne AC mp3 - 128 kbit/s
+http://mp3.antenneac.c.nmdn.net/ps-antenneac/livestream.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",ANTENNE BAYERN Black Beatz - 128 kbit/s
+http://mp3channels.webradio.antenne.de/black-beatz.aac
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg",ANTENNE BAYERN Black Beatz - 128 kbit/s
+https://mp3channels.webradio.antenne.de/black-beatz.aac
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg",ANTENNE BAYERN Weihnachts Hits - 48 kbit/s
+http://mp3channels.webradio.de/weihnachts-hits.aac
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg",ANTENNE BAYERN Weihnachtshits - 128 kbit/s
+http://mp3channels.webradio.de/weihnachts-hits
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1550032443.jpg",Ballermann Radio - 128 kbit/s
+http://tunein.bmr-radio.de
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",black
+https://0n-black.radionetz.de/0n-black.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Chart
+https://0n-charts.radionetz.de/0n-charts.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Chillout
+https://0n-chillout.radionetz.de/0n-chillout.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Christmas
+https://0n-christmas.radionetz.de/0n-christmas.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Classic Rock
+https://0n-classicrock.radionetz.de/0n-classicrock.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Country
+https://0n-country.radionetz.de/0n-country.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Dance
+https://0n-dance.radionetz.de/0n-dance.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403641281.png",Das Radio der von Neil Young Getöteten - 128 kbit/s
+http://streamplus3.leonex.de:11216/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/104070.jpg",DEFJAY - The place to be in RnB! - 128 kbit/s
+http://icepool.silvacast.com/DEFJAY.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Deutsch Pop
+https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Deutsch Rap
+https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Deutsch Rock
+https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Disco
+https://0n-disco.radionetz.de/0n-disco.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg",EasyFM - 128 kbit/s
+http://tuner.m1.fm/softpop.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Electro
+https://0n-electro.radionetz.de/0n-electro.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403760188.png",Electro Swing Radio - 192 kbit/s
+http://streamer.radio.co/s2c3cc784b/listen
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Evergreens
+https://0n-kult.radionetz.de/0n-kult.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Games
+https://0n-games.radionetz.de/0n-games.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Gay
+https://0n-gay.radionetz.de/0n-gay.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Gold
+https://0n-gold.radionetz.de/0n-gold.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Gothic
+https://0n-gothic.radionetz.de/0n-gothic.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Grand Prix
+https://0n-grandprix.radionetz.de/0n-grandprix.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Greatest Hits
+https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/22021.jpg",Hirschmilch Electronic - 128 kbit/s
+http://hirschmilch.de:7000/stream/6/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/22021.jpg",Hirschmilch Prog-House - 128 kbit/s
+http://hirschmilch.de:7000/stream/10/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/22021.jpg",Hirschmilch Progressive - 128 kbit/s
+http://hirschmilch.de:7000/stream/2/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/22021.jpg",Hirschmilch Psytrance - 128 kbit/s
+http://hirschmilch.de:7000/psytrance.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Hits
+https://0n-hits.radionetz.de/0n-hits.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Hot
+https://0n-hot.radionetz.de/0n-hot.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",House
+https://0n-house.radionetz.de/0n-house.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love Hip Hop by ilovemusic.de - 128 kbit/s
+http://stream01.iloveradio.de/iloveradio3.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/20006.jpg",I Love Hip Hop by ilovemusic.de - 128 kbit/s
+https://stream01.iloveradio.de/iloveradio3.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love Mashup by ilovemusic.de - 128 kbit/s
+http://stream12.iloveradio.de/iloveradio5.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg",I Love Mashup by ilovemusic.de - 128 kbit/s
+https://stream12.iloveradio.de/iloveradio5.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love Music &amp; Chill by ilovemusic.de - 128 kbit/s
+http://stream01.iloveradio.de/iloveradio10.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/20006.jpg",I Love Music &amp; Chill by ilovemusic.de - 128 kbit/s
+https://stream12.iloveradio.de/iloveradio10.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love New Pop by ilovemusic.de - 128 kbit/s
+http://stream01.iloveradio.de/iloveradio11.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love Radio - 128 kbit/s
+http://stream01.iloveradio.de/iloveradio1.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",I Love Top 100 Charts by ilovemusic.de - 128 kbit/s
+http://stream12.iloveradio.de/iloveradio9.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/20006.jpg",I Love Top 100 Charts by ilovemusic.de - 128 kbit/s
+https://stream01.iloveradio.de/iloveradio9.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Indie
+https://0n-indie.radionetz.de/0n-indie.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403514501.png",Internet Radio Lele Male - 128 kbit/s
+http://79.98.108.170:8332/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Jazz
+https://0n-jazz.radionetz.de/0n-jazz.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg",J-Pop Powerplay - 128 kbit/s
+https://kathy.torontocast.com:3560/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Jukebox
+https://0n-jukebox.radionetz.de/0n-jukebox.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",K Pop
+https://0n-kpop.radionetz.de/0n-kpop.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Kids
+https://0n-kids.radionetz.de/0n-kids.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Klassik
+https://0n-klassik.radionetz.de/0n-klassik.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Latin
+https://0n-latin.radionetz.de/0n-latin.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1561032143.jpg",LATINO FM - 160 kbit/s
+http://stream.latinofm.de/latinofm.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Lounge
+https://0n-lounge.radionetz.de/0n-lounge.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Love
+https://0n-love.radionetz.de/0n-love.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Movies
+https://0n-movies.radionetz.de/0n-movies.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",musicalradio.de .at .ch - 320 kbit/s
+http://server15.radiostreamserver.de:80/musicalradio.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1550056323.jpg",NuNRG & oldskool - 128 kbit/s
+https://streams.radiomast.io:443/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Oldies
+https://0n-oldies.radionetz.de/0n-oldies.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Party
+https://0n-party.radionetz.de/0n-party.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403554005.png",Playmystic - 128 kbit/s
+http://stream.laut.fm/playmystic
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Pop
+https://0n-pop.radionetz.de/0n-pop.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/8/1549421878.jpg",Power Radio - 128 kbit/s
+http://stream.power-radio.de:8020/stream
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/8/1572542908.jpg",Psyndora Psytrance - 128 kbit/s
+http://cast.magicstreams.gr:9111/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",RADIO AUGSBURG - 160 kbit/s
+http://stream.radio-augsburg.de/radioaugsburg.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403609467.png",radio B2 Deutschland - 128 kbit/s
+http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403514501.png",Radio Charivari Rosenheim - 128 kbit/s
+http://s17.myradiostream.com:10938/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/3/1551517853.jpg",Radio Fox4You - 128 kbit/s
+http://85.25.217.22:8100/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/8/1549785858.jpg",Radio Galaxy Rosenheim - 128 kbit/s
+http://176.31.120.166:13366/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/8/1537584598.jpg",radio horeb - 56 kbit/s
+http://rs16.stream24.net:80/horeb.aac
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/2/1549471292.jpg",RADIO MACKICA - NARODNA - 128 kbit/s
+http://cast2.name.ba:8153/stream/1/
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/9/1537444469.jpg",Radio Paloma - 100% Deutscher Schlager! - 128 kbit/s
+http://pool.radiopaloma.de/RADIOPALOMA.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/1403554005.png",Radio Shadowplay - 128 kbit/s
+http://stream.laut.fm/radio-shadowplay
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/9/1549786309.jpg",RadioHBR - 128 kbit/s
+http://rs29.stream24.net:80/stream.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Relax
+https://0n-relax.radionetz.de/0n-relax.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Rock
+https://0n-rock.radionetz.de/0n-rock.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Schlager
+https://0n-schlager.radionetz.de/0n-schlager.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/5/1537518505.jpg",Schlager - 128 kbit/s
+http://stream2.radio-heimatmelodie.de:80/listen.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Schlager Gold
+https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Schlager Kult
+https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/101301.jpg",SCHLAGERPARADIES - 192 kbit/s
+http://tunein.schlagerparadies.de/schlagerparadies128.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Smooth Jazz
+https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Soft Pop
+https://0n-softpop.radionetz.de/0n-softpop.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Soft Rock
+https://0n-softrock.radionetz.de/0n-softrock.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/0/1550413420.jpg",SR2 - 128 kbit/s
+http://sr.audiostream.io/sr/1010/mp3/128/sr2
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/6/1552299586.jpg",SR3 - 128 kbit/s
+http://sr.audiostream.io/sr/1011/mp3/128/sr3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/logo/92665.jpg",SR3 Oldiewelt - 128 kbit/s
+https://liveradio.sr.de/sr/sr3c2/mp3/128/stream.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Top 40
+https://0n-top40.radionetz.de/0n-top40.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Volksmusik
+https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",Weihnachten
+https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/9/1537589799.jpg",Westdeutscher Rundfunk Koeln - 128 kbit/s
+http://wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio" tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg",wunschradio.fm Schlager - 320 kbit/s
+http://webstream.radiostreamserver.de/wunschradio-schlager.mp3
+#EXTINF:-1 group-title="*DE_GERMAN_Radio",wunschradio.fm Top100 - 128 kbit/s
+http://mp3.wunschradio.de/wunschradio-top100.mp3

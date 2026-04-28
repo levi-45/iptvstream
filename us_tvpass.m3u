@@ -79,23 +79,19 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
 https://tvpass.org/live/IFCEast/hd
 #EXTINF:-1 tvg-id="IFC.us@East",IFC East (360p) [Not 24/7]
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id="KABCDT1.us@SD",KABC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KABCTV71.us@HD",KABC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD",KCBS-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCBSTV21.us@HD",KCBS-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KCBSDT1.us@SD",KCBS-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCBSTV21.us@HD",KCBS-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KFMBDT2.us@SD",KFMB-DT2 (720p) [Not 24/7]
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
-#EXTINF:-1 tvg-id="KFMBDT2.us@SD",KFMB-DT2 (360p) [Not 24/7]
-https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KNBC41.us@HD",KNBC-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KNBCDT1.us@SD",KNBC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KNBC41.us@HD",KNBC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="KTTVDT1.us@SD",KTTV-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTTV111.us@HD",KTTV-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
-#EXTINF:-1 tvg-id="KTTVDT1.us@SD",KTTV-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTTV111.us@HD",KTTV-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East (720p) [Not 24/7]
 https://tvpass.org/live/LifetimeMoviesEast/hd
@@ -173,29 +169,29 @@ https://tvpass.org/live/tsn5/sd
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (360p) [Not 24/7]
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WABCTV71.us@HD",WABC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WABCDT1/hd
-#EXTINF:-1 tvg-id="WABCDT1.us@SD",WABC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WABCTV71.us@HD",WABC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id="WCBSDT1.us@SD",WCBS-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WCBSTV21.us@HD",WCBS-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WCBSDT1/sd
 #EXTINF:-1 tvg-id="WISDT2.us@SD",WIS-DT2 (720p) [Not 24/7]
 https://tvpass.org/live/cw-wdcw-district-of-columbia/hd
 #EXTINF:-1 tvg-id="WISDT2.us@SD",WIS-DT2 (360p) [Not 24/7]
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNBC471.us@HD",WNBC-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNBCDT1/hd
-#EXTINF:-1 tvg-id="WNBCDT1.us@SD",WNBC-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNBC471.us@HD",WNBC-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="WNETDT1.us@SD",WNET-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNET211.us@HD",WNET-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/WNET/hd
-#EXTINF:-1 tvg-id="WNETDT1.us@SD",WNET-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNET211.us@HD",WNET-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD",WNJU-DT1 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNJU471.us@HD",WNJU-DT1 (1080p) [Not 24/7]
 https://tvpass.org/live/TelemundoEast/hd
-#EXTINF:-1 tvg-id="WNJUDT1.us@SD",WNJU-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNJU471.us@HD",WNJU-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNYWDT1.us@SD",WNYW-DT1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNYW51.us@HD",WNYW-DT1 (720p) [Not 24/7]
 https://tvpass.org/live/WNYWDT1/hd
-#EXTINF:-1 tvg-id="WNYWDT1.us@SD",WNYW-DT1 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="WNYW51.us@HD",WNYW-DT1 (360p) [Not 24/7]
 https://tvpass.org/live/WNYWDT1/sd
