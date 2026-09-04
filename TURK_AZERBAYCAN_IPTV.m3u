@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,AL-ZAHRA TV
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
+#EXTINF:-1,AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:-1,AZ STAR
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1,AZ TV Azərbaycan Televiziyası
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1,EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1,Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1,MUSIC AZERBAIJAN TV
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1,SON ÜMİD TV
+https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/playlist.m3u8
+#EXTINF:-1,VOSTOK TV
+http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
