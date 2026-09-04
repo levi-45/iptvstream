@@ -7,8 +7,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="T7.xk@SD",T7 (720p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
-#EXTINF:-1 tvg-id="TVArberia1.xk@SD",TV Arbëria 1 (720p)
-https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArberia3Femije.xk@SD",TV Arbëria 3 Fëmijë (720p)
 https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArberia4Muzike.xk@SD",TV Arbëria 4 Muzikë (720p)
@@ -23,3 +21,13 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSyri.xk@SD",TV Syri (720p)
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk@SD",RTK 1 (1080p)
+http://5.254.89.106/8702/index.m3u8
+#EXTINF:-1 tvg-id="Kohavision.xk@SD",Kohavision (720p)
+http://5.254.89.106/8705/index.m3u8
+#EXTINF:-1 tvg-id="KlanKosova.xk@SD",Klan Kosova (720p)
+http://5.254.89.106/8706/index.m3u8
+#EXTINF:-1 tvg-id="ATV.xk@SD",ATV (1080p)
+http://5.254.89.106/8709/index.m3u8
+#EXTINF:-1 tvg-id="FirstChannel.xk@SD",First Channel (1080p)
+http://5.254.89.106/8717/index.m3u8
